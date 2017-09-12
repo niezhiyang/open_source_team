@@ -9,8 +9,8 @@
 ### 1.阿里巴巴
 
 
- 1.  [阿里巴巴主团队](https://github.com/alibaba/)
- 2. [阿里巴巴前端团队](https://github.com/thx)
+ -. [阿里巴巴主团队](https://github.com/alibaba/)
+ -. [阿里巴巴前端团队](https://github.com/thx)
  
 ### 2.腾讯
 
