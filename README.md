@@ -53,7 +53,7 @@
  - [主团队](https://github.com/weibocom)
 ### 13. 搜狐
  - [主团队](https://github.com/SOHUDBA)
-### 14. 激光开发者(Jpush)
+### 14. 极光开发者(Jpush)
  - [主团队](https://github.com/jpush)
 ### 15. 开源中国
  - [主团队](https://github.com/oschina) 
