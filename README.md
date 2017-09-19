@@ -75,4 +75,6 @@
  - [主团队](https://github.com/netease)
 ### 23.七牛
  - [主团队](https://github.com/qiniu)
+### 23.芒果TV(or 湖南卫视)
+ - [主团队](https://github.com/HunanTV)
 
