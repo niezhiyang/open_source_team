@@ -67,6 +67,7 @@
 ### 19. 饿了么
 
  - [主团队](https://github.com/eleme)
+ - [大前端](https://github.com/ElemeFE)
 ### 20. 当当
  - [主团队](https://github.com/dangdangdotcom) 
 ### 21. 有道词典
