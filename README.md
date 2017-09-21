@@ -5,6 +5,7 @@
 ## 此页面会持续更新, 如果您发现还有的团队可以提出来告诉我
 
 ## 目录(中国)
+## 外国的团队地址请看[外国](https://github.com/niezhiyang/open_source_team/blob/master/%E5%A4%96%E5%9B%BD.md)
 
 ### 1.阿里巴巴
  -  [阿里巴巴主团队](https://github.com/alibaba/)
