@@ -77,6 +77,8 @@
  - [主团队](https://github.com/qiniu)
 ### 23. 环信
 - [主团队](https://github.com/easemob)
-### 23.芒果TV(or 湖南卫视)
+### 24. YY
+- [主团队](https://github.com/yyued)
+### 25.芒果TV(or 湖南卫视)
  - [主团队](https://github.com/HunanTV)
 
