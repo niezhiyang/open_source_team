@@ -77,4 +77,6 @@
  - [主团队](https://github.com/qiniu)
 ### 23.芒果TV(or 湖南卫视)
  - [主团队](https://github.com/HunanTV)
-
+### 24.坤腾畅联
+ - [固件团队](https://github.com/KunTengRom)
+ - [ApFree](https://github.com/liudf0716)
