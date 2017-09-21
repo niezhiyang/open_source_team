@@ -68,13 +68,12 @@
 
  - [主团队](https://github.com/eleme)
  - [大前端](https://github.com/ElemeFE)
-### 20. 当当
- - [主团队](https://github.com/dangdangdotcom) 
-### 21. 有道词典
+
+### 20. 有道词典
  - [主团队](https://github.com/netease)
-### 22.网易
+### 21.网易
  - [主团队](https://github.com/netease)
-### 23.七牛
+### 22.七牛
  - [主团队](https://github.com/qiniu)
 ### 23.芒果TV(or 湖南卫视)
  - [主团队](https://github.com/HunanTV)
