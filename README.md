@@ -75,6 +75,8 @@
  - [主团队](https://github.com/netease)
 ### 22.七牛
  - [主团队](https://github.com/qiniu)
+### 23. 环信
+- [主团队](https://github.com/easemob)
 ### 23.芒果TV(or 湖南卫视)
  - [主团队](https://github.com/HunanTV)
 ### 24.坤腾畅联
