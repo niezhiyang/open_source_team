@@ -163,27 +163,83 @@
 
 ### 15. 开源中国
 #### 15.1 [主团队](https://github.com/oschina) 
+- [开源中国各个版本app的开源代码(android版本)](https://gitee.com/oschina/android-app) star 4.1k 在码云上<br>
+- [开源中国各个版本app的开源代码(ios版本)](https://gitee.com/oschina/iphone-app) star 1.7k 在码云上<br>
+
 ### 16. 唯品会
 #### 16.1 [主团队](https://github.com/vipshop)
+- [Saturn](https://github.com/vipshop/Saturn)<br>Saturn (定时任务调度系统)是唯品会自主研发的分布式的定时任务的调度平台，目标是取代传统的Linux Cron/Spring Batch Job/Quartz的方式，做到全域统一配置，统一监控，任务高可用以及分片。 目前该平台己平稳运行1年，承载着唯品会核心系统的全部定时任务的调度，监控，配置，经受住了生产环境的各种考验。 开源版本系唯品会生产使用的saturn核心，去除了唯品会的认证，监控，告警系统等依赖，可独立部署安装使用。
+- [redis-migrate-tool](https://github.com/vipshop/redis-migrate-tool)
+Redis 集群迁移工具，基于redis复制，快速，稳定。
+
+
+
 ### 17. 当当
 #### 17.1 [主团队](https://github.com/dangdangdotcom)
+- [elastic-job](https://github.com/dangdangdotcom/elastic-job) star 2.7k
+elastic-job是当当开源的一款非常好用是一个分布式的定时任务框架,基于成熟的定时任务作业框架Quartz cron表达式执行定时任务相对于Quartz它增加了任务分片。这样能有效的防止单节点部署项目带来的种种不便
+- [dubbox](https://github.com/dangdangdotcom/dubbox) star 4.1k
+看这个名字是不是跟阿里巴巴的[dubbo](https://github.com/alibaba/dubbo)很像呀,没错,你猜对了,这个项目就是从阿里巴巴fork过来的,并且维护五年了,dubbox是一个分布式服务框架，致力于提供高性能和透明化的RPC远程服务调用方案，以及SOA服务治理方案。简单的说，dubbox就是个服务框架，如果没有分布式的需求，其实是不需要用的，只有在分布式的时候，才有dubbox这样的分布式服务框架的需求，并且本质上是个服务调用的东东，说白了就是个远程服务调用的分布式框架,dubbox采用全Spring配置方式，透明化接入应用，对应用没有任何API侵入，只需用Spring加载dubbox的配置即可，dubbox基于Spring的Schema扩展进行加载。
+
+
 ### 18. 豆瓣
 #### 18.1 [主团队](https://github.com/douban)
- 
+ - [dpark](https://github.com/douban/dpark) star 2.2k
+ DPark 是 Spark 的 Python克隆，是一个Python实现的分布式计算框架，可以非常方便地实现大规模数据处理和迭代计算。DPark由豆瓣实现，目前豆瓣内部的绝大多数数据分析都使用DPark 完成，正日趋完善。
+ - [DOUAudioStreamer](https://github.com/douban/DOUAudioStreamer) star 2.4k
+ DOUAudioStreamer 是 iOS 和 Mac 的基于核心音频的流媒体音频播放器。
+ - [code](https://github.com/douban/code) star 1.8k
+ code 是豆瓣开发的一个基于 git 版本控制系统的协作平台— C: CommunityO:OriginalD:DeveloperE:Eldamar目前CODE仅开放了一个框架，支持：clone & push project和create project和create user
+
+
 ### 19. 饿了么
 
 #### 19.1 [主团队](https://github.com/eleme)
-#### 19.2 [大前端](https://github.com/ElemeFE)
+- [thriftpy](https://github.com/eleme/thriftpy) 
+Thriftpy是饿了么根据Apache Thrift协议标准，使用纯Python实现的用于构建内部SOA框架的基础组件
+- [banshee](https://github.com/eleme/banshee) 
+周期性指标的监控系统
 
-### 20. 有道词典
+
+#### 19.2 [大前端](https://github.com/ElemeFE)
+- [element](https://github.com/ElemeFE/element) star 17.1k
+Element 是由饿了么UED设计、饿了么大前端开发的一套基于 Vue 2.0 的桌面端组件库,Element设计了一套后台支撑框架，提升后台系统的可用性和一致性套用此框架，即使没有设计师参与，也能让产品或开发设计出一套好用的后台系统
+- [mint-ui](https://github.com/ElemeFE/mint-ui) star 7.8k
+mint-ui由饿了么前端团队推出的 Mint UI 是一个基于 Vue.js 的移动端组件库,大公司写vue开发的很少,所以感觉这个还是挺不错的
+- [node-interview](https://github.com/ElemeFE/node-interview) star 5.0k
+关于node的一些面试内容
+
+### 20.网易
 #### 20.1 [主团队](https://github.com/netease)
-### 21.网易
-#### 21.1 [主团队](https://github.com/netease)
-### 22.七牛
-#### 22.1 [主团队](https://github.com/qiniu)
-### 23. 环信
-#### 23.1 [主团队](https://github.com/easemob)
-### 24. YY
-#### 24.1 [主团队](https://github.com/yyued)
+- [pomelo](https://github.com/NetEase/pomelo) star 8.2k
+Pomelo 是基于 Node.js的高性能、分布式游戏服务器框架。它包括基础的开发框架和相关的扩展组件（库和工具包），可以帮助你省去游戏开发枯燥中的重复劳动和底层逻辑的开发。Pomelo 不但适用于游戏服务器开发，也可用于开发高实时Web应用，它的分布式架构可以使 Pomelo 比普通的实时 Web 框架扩展性更好。
+- [Emmagee](https://github.com/NetEase/Emmagee) star 1.5k
+Emmagee是网易杭州研究院QA团队开发的一个简单易上手的Android性能监测小工具，主要用于监控单个App的CPU，内存，流量，启动耗时，电量，电流等性能状态的变化，且用户可自定义配置监控的频率以及性能的实时显示，并最终生成一份性能统计文件。
+
+
+
+#### 20.1 [网易技术部(网上查了查感觉是,如果不是请您指正)](https://github.com/netease) 
+- [tcpcopy](https://github.com/session-replay-tools/tcpcopy) star 2.2k
+tcpcopy是一种应用请求复制（基于tcp的packets）工具，其应用领域较广，目前已经应用于国内各大互联网公司,tcpcopy主要有如下功能：
+1）分布式压力测试工具，利用在线数据，可以测试系统能够承受的压力大小（远比ab压力测试工具真实地多）,也可以提前发现一些bug
+2）普通上线测试，可以发现新系统是否稳定，提前发现上线过程中会出现的诸多问题，让开发者有信心上线
+3）对比试验，同样请求，针对不同或不同版本程序，可以做性能对比等试验
+4）利用多种手段，构造无限在线压力，满足中小网站压力测试要求
+5）实战演习（架构师必备）
+
+
+### 21.七牛
+#### 21.1 [主团队](https://github.com/qiniu)
+- [js-sdk](https://github.com/qiniu/js-sdk) 
+js-sdk基于七牛 API 开发的前端 JavaScript SDK,适用于 IE8+、Chrome、Firefox、Safari 等浏览器，基于七牛云存储官方 API 构建，其中上传功能基于 Plupload 插件封装。开发者基于 JS-SDK 可以方便的从浏览器端上传文件至七牛云存储，并对上传成功后的图片进行丰富的数据处理操作。
+
+### 22. 环信
+#### 22.1 [主团队](https://github.com/easemob)
+环信是是以IM即时通讯及移动在线客服为主要研发对象的专业型高科技的品牌。为开发者提供基于移动互联网的即时通讯能力，如单聊、群聊、发语音、发图片、发位置、实时音频、实时视频等，让开发者摆脱繁重的移动IM通讯底层开发，24小时即可让App拥有内置IM能力。
+### 23. YY
+#### 23.1 [主团队](https://github.com/yyued)
+感觉这个里面没有咱们想要的东西
+
+### 未完呆更新...
 
 
