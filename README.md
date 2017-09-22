@@ -240,6 +240,11 @@ js-sdk基于七牛 API 开发的前端 JavaScript SDK,适用于 IE8+、Chrome、
 #### 23.1 [主团队](https://github.com/yyued)
 感觉这个里面没有咱们想要的东西
 
+### 24. 云轴
+#### 24.1 [ZStack](https://github.com/zstackio)
+- [ZStack](https://github.com/zstackio/zstack)
+ZStack is open source IaaS(infrastructure as a service) software aiming to automate datacenters, managing resources of compute, storage, and networking all by APIs. Users can setup ZStack environments in a download-and-run manner, spending 5 minutes building a POC environment all on a single Linux machine, or 30 minutes building a multi-node production environment that can scale to hundreds of thousands of physical servers.
+
 ### 未完呆更新...
 
 
