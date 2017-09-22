@@ -2,7 +2,7 @@
 ## 概述
 想跟着大神走吗,想学习大神的步伐吗,想使自己的项目变得简单吗,那就看一看个大公司团队的代码吧,下面主要写的就是各大公司团队的开源地址,可以尽情的学习,现在是单纯的中国的团队,有时间把外国的团队补上,欢迎持续关注,欢迎 "Star"
 
-## 此页面会持续更新, 如果您发现还有的团队可以提出来告诉我
+## 此页面有可能不会会持续更新, 如果有什么不妥的话,欢迎提出,发现你还有好的项目地址可以提出来
 
 ## 目录(中国)
 ## 外国的团队地址请看[外国](https://github.com/niezhiyang/open_source_team/blob/master/%E5%A4%96%E5%9B%BD.md)
@@ -17,21 +17,23 @@
  -  [druid](https://github.com/alibaba/druid)   star 7.9k<br>用官网github的一句话总结:Druid是Java语言中最好的数据库连接池。Druid能够提供强大的监控和扩展功能。
    
  
+
 #### 1.2  [阿里巴巴前端团队](https://github.com/thx)
   -  [RAP](https://github.com/thx/RAP)   star 6.2k<br>用官网上的总结:Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理。阿里妈妈MUX团队出品！阿里巴巴都在用！1000+公司的选择！一直被抄袭，从未被超越
   
   
+
 ### 2.腾讯
- #### 2.1 [AlloyTeam](https://github.com/AlloyTeam) 
+
+#### 2.1 [AlloyTeam](https://github.com/AlloyTeam) 
  -  [AlloyImage](https://github.com/AlloyTeam/AlloyImage)   star 1.7k<br>AlloyImage是一个使用Javascript语言开发的项目，在Web的在线图像处理引擎的基础上，不仅仅是核心底层图像处理引擎，同样还集成了一些方便快捷的图像处理API，您可以将它简单快捷的引用到您的Web网页中，做出与PhotoShop一样的优美效果。甚至，你可以用AlloyImage来开发一个Web在线图像处理软件，如：Web版的PhotoShop——AlloyPhoto 
  -  [Mars](https://github.com/AlloyTeam/Mars)  star  5.7k<br>腾讯移动Web前端知识库,在这里可以找到前端的任何知识,不过最近7个月都没有更新了
    
- 
- #### 2.2 [微信团队](https://github.com/tencent-wechat) 好像此地址已经作废
+
+#### 2.2 [微信团队](https://github.com/tencent-wechat) 好像此地址已经作废
  -  [libco](https://github.com/tencent-wechat/libco) star  2.7k<br> 这个项目地址已经移址[libco](http://github.com/Tencent/libco)<br>libco是微信后台大规模使用的c/c++协程库，2013年至今稳定运行在微信后台的数万台机器上。无需侵入业务逻辑，把多进程、多线程服务改造成协程服务，并发能力得到百倍提升;支持CGI框架，轻松构建web服务(New);支持gethostbyname、mysqlclient、ssl等常用第三库(New);可选的共享栈模式，单机轻松接入千万连接(New);
- 
- 
- #### 2.3 [主团队](https://github.com/tencent)
+
+#### 2.3 [主团队](https://github.com/tencent)
 这个开源团队的项目也非常多,就列出几个重大的开源地址吧
 -  [tinker](https://github.com/Tencent/tinker) star  10.1k<br>Tinker是微信官方的Android热补丁解决方案，它支持动态下发代码、So库以及资源，让应用能够在不需要重新安装的情况下实现更新。当然，你也可以使用Tinker来更新你的插件,同样热修复的框架还有[QZone](),[AndFix](https://github.com/alibaba/AndFix),[Robust](https://github.com/Meituan-Dianping/Robust)
 -  [VasSonic](https://github.com/Tencent/VasSonic) star 5.6k(大约2017年7月开源的) <br>VasSonic取名于世嘉游戏形象音速小子，俗称H5首屏秒开,支持android,ios,后端.是腾讯VAS(SNG增值产品部QQ会员)团队研发的一个轻量级的高性能的Hybrid框架，专注于提升页面首屏加载速度，完美支持静态直出页面和动态直出页面，兼容离线包等方案。该框架使用终端应用层原生传输通道取代系统浏览器内核自身资源传输通道来请求页面主资源，在移动终端初始化的同时并行请求页面主资源并做到流式拦截，减少传统方案上终端初始化耗时长导致页面主资源发起请求时机慢或传统并行方案下必须等待主资源完成下载才能交给内核加载的影响。
@@ -40,24 +42,25 @@
 -  
 
 
- #### 2.4 [前端](https://github.com/WechatFE)
+#### 2.4 [前端](https://github.com/WechatFE)
  
  感觉这个地址就是腾讯占个位置,并没有什么重大开源项目,大家可以稍微看一下
  
- #### 2.5 [后台](https://github.com/TencentOpen)
+#### 2.5 [后台](https://github.com/TencentOpen)
 -  [JX](https://github.com/TencentOpen/JX) <br>一个类似 Google Closure Library 的 Web 前端开发框架，JX 框架同时适用于 Web Page 和 Web App 项目的开发，特别适合构建和组织大规模、工业级的Web App，腾讯 WebQQ - http://web.qq.com、腾讯 Q+ http://www.QPlus.com 等产品都是采用JX框架开发，兼容目前所有主流浏览器。
   
 
  
- #### 2.6 [腾讯移动端UI](https://github.com/frozenui)
+#### 2.6 [腾讯移动端UI](https://github.com/frozenui)
  -  [frozenui](https://github.com/frozenui/frozenui) star 2.2k <br>FrozenUI的CSS组件库,基于腾讯手Q样式规范 
- 
+
+
 ### 3.百度
 #### 3.1 [主团队](https://github.com/baidu)
  -  [bfs](https://github.com/baidu/bfs) star 2.1k <br>百度的核心业务和数据库系统都依赖分布式文件系统作为底层存储，文件系统的可用性和性能对上层搜索业务的稳定性与效果有着至关重要的影响。现有的分布式文件系统（如HDFS等）是为离线批处理设计的，无法在保证高吞吐的情况下做到低延迟和持续可用，所以我们从搜索的业务特点出发，设计了百度文件系统。
  -  [sofa-pbrpc](https://github.com/baidu/sofa-pbrpc) star 1.4k<br>sofa-pbrpc是基于Google Protocol Buffers 实现的RPC网络通信库，在百度公司各部门得到广泛使用，每天支撑上亿次内部调用。sofa-pbrpc基于百度大搜索高并发高负载的业务场景不断打磨，成为一套简单易用的轻量级高性能RPC框架。
-   
- 
+
+
 #### 3.2 [主团队2](https://github.com/ecomfe)
 -  [echarts](https://github.com/ecomfe/echarts) star 20k<br>ECharts 是指 Enterprise Charts（商业产品图表库），提供商业产品常用图表库，底层基于 ZRender，创建了坐标系，图例，提示，工具箱等基础组件，并在此上构建出折线图（区域图）、柱状图（条状图）、散点图（气泡图）、K线图、饼图（环形图）、地图、力导向布局图，同时支持任意维度的堆积和多图表混合展现。纯Javascript 的图表库，提供直观，生动，可交互，可个性化定制的数据可视化图表
 -  [zrender](https://github.com/ecomfe/zrender) star 2.1k<br>一个轻量级HTML5 Canvas类库，MVC封装，数据驱动，提供类Dom事件模型，让canvas绘图大不同！
@@ -83,21 +86,21 @@
  自己看吧
 
 ### 5. 360
-
- #### 5.1 [主团队](https://github.com/Qihoo360)
+#### 5.1 [主团队](https://github.com/Qihoo360)
  - [Atlas](https://github.com/Qihoo360/Atlas) star 3.0k <br>Atlas是由 Qihoo 360,  Web平台部基础架构团队开发维护的一个基于MySQL协议的数据中间层项目。它在MySQL官方推出的MySQL-Proxy 0.8.2版本的基础上，修改了大量bug，添加了很多功能特性。目前该项目在360公司内部得到了广泛应用，很多MySQL业务已经接入了Atlas平台，每天承载的读写请求数达几十亿条。
  - [DroidPlugin](https://github.com/Qihoo360/DroidPlugin) star 1.4k<br>感觉已过时
  DroidPlugin 是***360手机助手***在Android系统上实现了一种新的***插件机制***:它可以在无需安装、修改的情况下运行APK文件,此机制对改进大型APP的架构，实现多团队协作开发具有一定的好处。
  - [RePlugin](https://github.com/Qihoo360/RePlugin) star 3.6k (2017年06月30日开源)<br>RePlugin 其插件化方案是一套完整的、稳定的、适合全面使用的，占坑类插件化方案，于 2014 年中旬从 360 手机卫士团队产生，并正式在卫士上启用。360 表示 RePlugin 无论大小项目均可使用，稳定与灵活兼得，目前 360 公司几乎所有的亿级用户量的 APP ，以及多款主流第三方 APP ，都采用了 RePlugin 方案. 与其相媲美的还有滴滴的[VirtualAPK](https://github.com/didi/VirtualAPK),感觉滴滴的这个好像厉害点(我是从github的star看的)
  
 
- ### 6. 小米
+### 6. 小米
 
 #### 6.1 [主团队](https://github.com/xiaomi)
  - [minos](https://github.com/XiaoMi/minos)<br>Minos 是小米公司开发的一个分布式的发布和监控系统。最初是小米开发的用来在 Hadoop 和 ZooKeeper 集群上发布和管理的工具。Minos可轻松扩展来支持其他的系统，目前已经支持包括 HDFS、YARN 和 Impala 。
  - [open-falcon](https://github.com/XiaoMi/open-falcon) star 2.1k<br>用官网的话概述:监控系统业界有很多杰出的开源监控系统。我们在早期，一直在用zabbix，不过随着业务的快速发展，以及互联网公司特有的一些需求，现有的开源的监控系统在性能、扩展性、和用户的使用效率方面，已经无法支撑了。
 因此，我们在过去的一年里，从互联网公司的一些需求出发，从各位SRE、SA、DEVS的使用经验和反馈出发，结合业界的一些大的互联网公司做监控，用监控的一些思考出发，设计开发了小米的监控系统
  
+
 ### 7. 58同城
 
 ### 7.1 [主团队](https://github.com/58code)
@@ -108,12 +111,15 @@
  - [walle](https://github.com/Meituan-Dianping/walle) star 1.9k<br>Android Signature V2 Scheme签名下的新一代渠道包打包神器,通过在Apk中的APK Signature Block区块添加自定义的渠道信息来生成渠道包，从而提高了渠道包生成效率，可以作为单机工具来使用，也可以部署在HTTP服务器上来实时处理渠道包Apk的升级网络请求。
  - [SQLAdvisor](https://github.com/Meituan-Dianping/SQLAdvisor) satr 1.7k<br>SQLAdvisor是由美团点评公司技术工程部DBA团队（北京）开发维护的一个分析SQL给出索引优化建议的工具。它基于MySQL原生态词法解析，结合分析SQL中的where条件、聚合条件、多表Join关系 给出索引优化建议。目前SQLAdvisor在美团点评内部广泛应用
  
+
 #### 8.2 [美团点评(老)](https://github.com/Meituan)
  已经合并到8.1
+
 #### 8.3 [大众点评(老)](https://github.com/dianping)
  - [cat](https://github.com/dianping/cat) star 1.9k<br> CAT基于Java开发的实时应用监控平台，包括实时应用监控，业务监控
  
  
+
 ### 9. 滴滴出行
 #### 9.1 [主团队](https://github.com/didi) 
  - [VirtualAPK](https://github.com/didi/VirtualAPK) star 4.5k(2017年6月3号开源)<br>Android插件化技术是比较热门领域，VirtualAPK框架功能完备，支持Android四大组件，良好的兼容性，且入侵性较低，作为加载耦合插件方案是较好选择。兼容市面上几乎所有的Android手机，这一点已经在滴滴出行客户端中得到验证；
@@ -123,47 +129,61 @@
   - [DDFE-blog](https://github.com/DDFE/DDFE-blog) star 1.4k<br>这个项目也不是什么开源的项目,其实就是滴滴内部公司所分享的一些结束而已
    
   
+
 ### 10. 知乎
- - [主团队](https://github.com/zhihu)
-  
+#### 10.1 [主团队](https://github.com/zhihu)
+   - [Matisse](https://github.com/zhihu/Matisse) star 5.0k <br>在实际开发中，选择图片,选择视频都是比不可少的,Matisse 完全遵循 Android 交互设计规范. 知乎 App 是支持日夜间模式的，Matisse 也需要具备这个功能。但是作为一个开源库，不能依赖主 App 的日夜间模式的实现，我们为 Matisse 内置了两套主题，蓝色的 Zhihu 主题和暗色的 Dracula 主题。当然了也可以自定义主题.只可以只有android版本,Matisse需要 [Picasso](https://github.com/square/picasso) 或者 [Glide](https://github.com/bumptech/glide) 的支持
  
+
 ### 11. 哔哩哔哩
- - [主团队](https://github.com/Bilibili)
- 
+#### 11.1 [主团队](https://github.com/Bilibili)
+ - [ijkplayer](https://github.com/Bilibili/ijkplayer) star 15.4k <br>ijkplayer是Bilibili基于ffmpeg开发并开源的轻量级视频播放器，支持播放本地网络视频，也支持流媒体播放。支持Android&iOS。实现了跨平台功能，API易于集成；编译配置可裁剪，方便控制安装包大小；支持硬件加速解码，更加省电；提供Android平台下应用弹幕集成的解决方案，此方案目前已用于美拍和斗鱼 APP。
+ - [flv.js](https://github.com/Bilibili/flv.js) star 10.1k <br>flv.js是 HTML5 Flash 视频（FLV）播放器，纯原生 JavaScript 开发，没有用到 Flash。由 bilibili 网站开源。概览：一个实现了在 HTML5 视频中播放 FLV 格式视频的 JavaScript 库。它的工作原理是将 FLV 文件流转码复用成 ISO BMFF（MP4 碎片）片段，然后通过 Media Source Extensions 将 MP4 片段喂进浏览器。flv.js 是使用 ECMAScript 6 编写的，然后通过 Babel Compiler 编译成 ECMAScript 5，使用 Browserify 打包。
+ - [DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster) star 5.8k <br>DanmakuFlameMaster 是 Android 上开源弹幕解析绘制引擎项目，也是 Android 上最好的开源弹幕引擎·烈焰弹幕。其架构清晰，简单易用，支持多种高效率绘制方式选择，支持多种自定义功能设置上。目前，DanmakuFlameMaster 开发包已被包括优酷土豆、开迅视频、MissEvan、echo回声、斗鱼TV、天天动听、被窝声次元、ACFUN 等 APP 使用。
+ - [MagicaSakura](https://github.com/Bilibili/MagicaSakura) star 2.2k<br>MagicaSakura是Android上的多主题框架,可以无闪屏地对程序中的控件更换主题 , 其采用的遍历View树的方式对每一个控件进行操作(区别于保存集合).在控件变色上使的是对Drawable进行tint(区别于只对Drawable或者ImageView设置ColorFilter),其中使用到了V4包的DrawableCompat, 还对特别的View进行了特殊处理. 使用TintDrawable的方式不会影响原来的属性和使用方式.
+
  
 ### 12. 新浪微博
- - [主团队](https://github.com/weibocom)
-  
+#### 12.1 [主团队](https://github.com/weibocom)
+
+- [motan](https://github.com/weibocom/motan) star3.5k<br> motan是新浪微博开源的一套轻量级、方便使用的RPC框架,支撑着新浪微博的千亿调用，曾经在2014年的春晚中有着千亿次的调用，对抗了春晚的最高峰值。Motan 属于服务治理类型，是一个基于 Java 开发的高性能的轻量级 RPC 框架，Motan 提供了实用的服务治理功能和优秀的 RPC 协议扩展能力
  
+
 ### 13. 搜狐
- - [主团队](https://github.com/SOHUDBA)
+#### 13.1 [主团队](https://github.com/SOHUDBA)
+ - [SOHU-DBProxy](star3.5k<br>https://github.com/SOHUDBA/SOHU-DBProxy) 基本上不维护了
+ SOHU-DBProxy是由 搜狐 数据库团队开发维护的一个基于MySQL协议的数据中间层项目。它在MySQL官方推出的MySQL-Proxy 0.8.3版本的基础上， 修改了大量bug，添加了很多功能特性。现在已经在sohu的多个业务线上使用
  
+
 ### 14. 极光开发者(Jpush)
- - [主团队](https://github.com/jpush)
+#### 14.1 [主团队](https://github.com/jpush)
+极光开发者服务官方开源站。包括：极光推送（JPush）、极光IM（JMessage）、极光短信（JSMS）、极光统计（JAnalytics）等相关开源项目
+- [aurora-imui](https://github.com/jpush/aurora-imui) star 2.3k<br>
+通用 IM 聊天 UI 组件，已经同时支持 Android/iOS/RN
+
 ### 15. 开源中国
- - [主团队](https://github.com/oschina) 
+#### 15.1 [主团队](https://github.com/oschina) 
 ### 16. 唯品会
- - [主团队](https://github.com/vipshop)
+#### 16.1 [主团队](https://github.com/vipshop)
 ### 17. 当当
- - [主团队](https://github.com/dangdangdotcom)
+#### 17.1 [主团队](https://github.com/dangdangdotcom)
 ### 18. 豆瓣
- - [主团队](https://github.com/douban)
+#### 18.1 [主团队](https://github.com/douban)
  
 ### 19. 饿了么
 
- - [主团队](https://github.com/eleme)
- - [大前端](https://github.com/ElemeFE)
+#### 19.1 [主团队](https://github.com/eleme)
+#### 19.2 [大前端](https://github.com/ElemeFE)
 
 ### 20. 有道词典
- - [主团队](https://github.com/netease)
+#### 20.1 [主团队](https://github.com/netease)
 ### 21.网易
- - [主团队](https://github.com/netease)
+#### 21.1 [主团队](https://github.com/netease)
 ### 22.七牛
- - [主团队](https://github.com/qiniu)
+#### 22.1 [主团队](https://github.com/qiniu)
 ### 23. 环信
-- [主团队](https://github.com/easemob)
+#### 23.1 [主团队](https://github.com/easemob)
 ### 24. YY
-- [主团队](https://github.com/yyued)
-### 25.芒果TV(or 湖南卫视)
- - [主团队](https://github.com/HunanTV)
+#### 24.1 [主团队](https://github.com/yyued)
+
 
