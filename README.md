@@ -61,7 +61,7 @@
 -  [VasSonic](https://github.com/Tencent/VasSonic) star 5.6k(大约2017年7月开源的) <br>VasSonic取名于世嘉游戏形象音速小子，俗称H5首屏秒开,支持android,ios,后端.是腾讯VAS(SNG增值产品部QQ会员)团队研发的一个轻量级的高性能的Hybrid框架，专注于提升页面首屏加载速度，完美支持静态直出页面和动态直出页面，兼容离线包等方案。该框架使用终端应用层原生传输通道取代系统浏览器内核自身资源传输通道来请求页面主资源，在移动终端初始化的同时并行请求页面主资源并做到流式拦截，减少传统方案上终端初始化耗时长导致页面主资源发起请求时机慢或传统并行方案下必须等待主资源完成下载才能交给内核加载的影响。
 -  [wcdb](https://github.com/Tencent/wcdb) star 4k(2017年6月2号开源的)<br>WCDB 是一个高效、完整、易用的移动数据库框架，基于 SQLCipher，支持 iOS、macOS 和 Android。
 -  [angel](https://github.com/Tencent/angel) star 2.4k<br>Angel是一个基于参数服务器（Parameter Server）理念开发的高性能分布式机器学习平台，它基于腾讯内部的海量数据进行了反复的调优，并具有广泛的适用性和稳定性，模型维度越高，优势越明显。 Angel由腾讯和北京大学联合开发，兼顾了工业界的高可用性和学术界的创新性。
--  
+ 
 
 
 #### 2.4 [前端](https://github.com/WechatFE)
