@@ -120,7 +120,7 @@
  - [RePlugin](https://github.com/Qihoo360/RePlugin) star 3.6k (2017年06月30日开源)<br>RePlugin 其插件化方案是一套完整的、稳定的、适合全面使用的，占坑类插件化方案，于 2014 年中旬从 360 手机卫士团队产生，并正式在卫士上启用。360 表示 RePlugin 无论大小项目均可使用，稳定与灵活兼得，目前 360 公司几乎所有的亿级用户量的 APP ，以及多款主流第三方 APP ，都采用了 RePlugin 方案. 与其相媲美的还有滴滴的[VirtualAPK](https://github.com/didi/VirtualAPK),感觉滴滴的这个好像厉害点(我是从github的star看的)
  
 #### 5.2 [奇舞团](https://github.com/75team) 
- [奇舞团](https://75team.com)是360内部最大的前端团队，服务于360内大部分的前端业务并致力于培养和输送更多的前端人才。
+  奇舞团是360内部最大的前端团队，服务于360内大部分的前端业务并致力于培养和输送更多的前端人才。
  - [ThinkJS](https://github.com/thinkjs/thinkjs) star 3.6k  
  ThinkJS 是一款拥抱未来的 Node.js Web 框架，致力于集成项目最佳实践，规范项目让企业级团队开发变得更加简单，更加高效。
  - [Firekylin](https://github.com/firekylin/firekylin) star 1.2k  
@@ -209,50 +209,50 @@ Redis 集群迁移工具，基于redis复制，快速，稳定。
 
 ### 17.当当
 #### 17.1 [主团队](https://github.com/dangdangdotcom)
-- [elastic-job](https://github.com/dangdangdotcom/elastic-job) star 2.7k
+- [elastic-job](https://github.com/dangdangdotcom/elastic-job) star 2.7k<br>
 elastic-job是当当开源的一款非常好用是一个分布式的定时任务框架,基于成熟的定时任务作业框架Quartz cron表达式执行定时任务相对于Quartz它增加了任务分片。这样能有效的防止单节点部署项目带来的种种不便
-- [dubbox](https://github.com/dangdangdotcom/dubbox) star 4.1k
+- [dubbox](https://github.com/dangdangdotcom/dubbox) star 4.1k<br>
 看这个名字是不是跟阿里巴巴的[dubbo](https://github.com/alibaba/dubbo)很像呀,没错,你猜对了,这个项目就是从阿里巴巴fork过来的,并且维护五年了,dubbox是一个分布式服务框架，致力于提供高性能和透明化的RPC远程服务调用方案，以及SOA服务治理方案。简单的说，dubbox就是个服务框架，如果没有分布式的需求，其实是不需要用的，只有在分布式的时候，才有dubbox这样的分布式服务框架的需求，并且本质上是个服务调用的东东，说白了就是个远程服务调用的分布式框架,dubbox采用全Spring配置方式，透明化接入应用，对应用没有任何API侵入，只需用Spring加载dubbox的配置即可，dubbox基于Spring的Schema扩展进行加载。
 
 
 ### 18.豆瓣
 #### 18.1 [主团队](https://github.com/douban)
- - [dpark](https://github.com/douban/dpark) star 2.2k
+ - [dpark](https://github.com/douban/dpark) star 2.2k<br>
  DPark 是 Spark 的 Python克隆，是一个Python实现的分布式计算框架，可以非常方便地实现大规模数据处理和迭代计算。DPark由豆瓣实现，目前豆瓣内部的绝大多数数据分析都使用DPark 完成，正日趋完善。
- - [DOUAudioStreamer](https://github.com/douban/DOUAudioStreamer) star 2.4k
+ - [DOUAudioStreamer](https://github.com/douban/DOUAudioStreamer) star 2.4k<br>
  DOUAudioStreamer 是 iOS 和 Mac 的基于核心音频的流媒体音频播放器。
- - [code](https://github.com/douban/code) star 1.8k
+ - [code](https://github.com/douban/code) star 1.8k<br>
  code 是豆瓣开发的一个基于 git 版本控制系统的协作平台— C: CommunityO:OriginalD:DeveloperE:Eldamar目前CODE仅开放了一个框架，支持：clone & push project和create project和create user
 
 
 ### 19.饿了么
 
 #### 19.1 [主团队](https://github.com/eleme)
-- [thriftpy](https://github.com/eleme/thriftpy) 
+- [thriftpy](https://github.com/eleme/thriftpy) <br>
 Thriftpy是饿了么根据Apache Thrift协议标准，使用纯Python实现的用于构建内部SOA框架的基础组件
-- [banshee](https://github.com/eleme/banshee) 
+- [banshee](https://github.com/eleme/banshee) <br>
 周期性指标的监控系统
 
 
 #### 19.2 [大前端](https://github.com/ElemeFE)
-- [element](https://github.com/ElemeFE/element) star 17.1k
+- [element](https://github.com/ElemeFE/element) star 17.1k<br>
 Element 是由饿了么UED设计、饿了么大前端开发的一套基于 Vue 2.0 的桌面端组件库,Element设计了一套后台支撑框架，提升后台系统的可用性和一致性套用此框架，即使没有设计师参与，也能让产品或开发设计出一套好用的后台系统
-- [mint-ui](https://github.com/ElemeFE/mint-ui) star 7.8k
+- [mint-ui](https://github.com/ElemeFE/mint-ui) star 7.8k<br>
 mint-ui由饿了么前端团队推出的 Mint UI 是一个基于 Vue.js 的移动端组件库,大公司写vue开发的很少,所以感觉这个还是挺不错的
-- [node-interview](https://github.com/ElemeFE/node-interview) star 5.0k
+- [node-interview](https://github.com/ElemeFE/node-interview) star 5.0k<br>
 关于node的一些面试内容
 
 ### 20.网易
 #### 20.1 [主团队](https://github.com/netease)
-- [pomelo](https://github.com/NetEase/pomelo) star 8.2k
+- [pomelo](https://github.com/NetEase/pomelo) star 8.2k<br>
 Pomelo 是基于 Node.js的高性能、分布式游戏服务器框架。它包括基础的开发框架和相关的扩展组件（库和工具包），可以帮助你省去游戏开发枯燥中的重复劳动和底层逻辑的开发。Pomelo 不但适用于游戏服务器开发，也可用于开发高实时Web应用，它的分布式架构可以使 Pomelo 比普通的实时 Web 框架扩展性更好。
-- [Emmagee](https://github.com/NetEase/Emmagee) star 1.5k
+- [Emmagee](https://github.com/NetEase/Emmagee) star 1.5k<br>
 Emmagee是网易杭州研究院QA团队开发的一个简单易上手的Android性能监测小工具，主要用于监控单个App的CPU，内存，流量，启动耗时，电量，电流等性能状态的变化，且用户可自定义配置监控的频率以及性能的实时显示，并最终生成一份性能统计文件。
 
 
 
 #### 20.1 [网易技术部(网上查了查感觉是,如果不是请您指正)](https://github.com/netease) 
-- [tcpcopy](https://github.com/session-replay-tools/tcpcopy) star 2.2k
+- [tcpcopy](https://github.com/session-replay-tools/tcpcopy) star 2.2k<br>
 tcpcopy是一种应用请求复制（基于tcp的packets）工具，其应用领域较广，目前已经应用于国内各大互联网公司,tcpcopy主要有如下功能：
 1）分布式压力测试工具，利用在线数据，可以测试系统能够承受的压力大小（远比ab压力测试工具真实地多）,也可以提前发现一些bug
 2）普通上线测试，可以发现新系统是否稳定，提前发现上线过程中会出现的诸多问题，让开发者有信心上线
@@ -263,7 +263,7 @@ tcpcopy是一种应用请求复制（基于tcp的packets）工具，其应用领
 
 ### 21.七牛
 #### 21.1 [主团队](https://github.com/qiniu)
-- [js-sdk](https://github.com/qiniu/js-sdk) 
+- [js-sdk](https://github.com/qiniu/js-sdk) <br>
 js-sdk基于七牛 API 开发的前端 JavaScript SDK,适用于 IE8+、Chrome、Firefox、Safari 等浏览器，基于七牛云存储官方 API 构建，其中上传功能基于 Plupload 插件封装。开发者基于 JS-SDK 可以方便的从浏览器端上传文件至七牛云存储，并对上传成功后的图片进行丰富的数据处理操作。
 
 ### 22.环信
