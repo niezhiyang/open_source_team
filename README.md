@@ -119,7 +119,13 @@
  DroidPlugin 是***360手机助手***在Android系统上实现了一种新的***插件机制***:它可以在无需安装、修改的情况下运行APK文件,此机制对改进大型APP的架构，实现多团队协作开发具有一定的好处。
  - [RePlugin](https://github.com/Qihoo360/RePlugin) star 3.6k (2017年06月30日开源)<br>RePlugin 其插件化方案是一套完整的、稳定的、适合全面使用的，占坑类插件化方案，于 2014 年中旬从 360 手机卫士团队产生，并正式在卫士上启用。360 表示 RePlugin 无论大小项目均可使用，稳定与灵活兼得，目前 360 公司几乎所有的亿级用户量的 APP ，以及多款主流第三方 APP ，都采用了 RePlugin 方案. 与其相媲美的还有滴滴的[VirtualAPK](https://github.com/didi/VirtualAPK),感觉滴滴的这个好像厉害点(我是从github的star看的)
  
-
+#### 5.2 [奇舞团](https://github.com/75team) 
+ [奇舞团](https://75team.com)是360内部最大的前端团队，服务于360内大部分的前端业务并致力于培养和输送更多的前端人才。
+ - [ThinkJS](https://github.com/thinkjs/thinkjs) star 3.6k  
+ ThinkJS 是一款拥抱未来的 Node.js Web 框架，致力于集成项目最佳实践，规范项目让企业级团队开发变得更加简单，更加高效。
+ - [Firekylin](https://github.com/firekylin/firekylin) star 1.2k  
+ Firekylin 是基于 ThinkJS 和 React 构建的开源博客系统
+ 
 ### 6.小米
 
 #### 6.1 [主团队](https://github.com/xiaomi)
