@@ -32,7 +32,7 @@
 ### 1.阿里巴巴
 #### 1.1  [阿里巴巴主团队](https://github.com/alibaba/)
  主要开源的大项目真的太多了，那我就找几个主要的大项目说一下把
- - [weex](https://github.com/alibaba/weex)   star 14.9k<br>      Weex能够完美兼顾性能与动态性，让移动开发者通过简捷的前端语法写出Native级别的性能体验，并支持iOS、安卓、YunOS及Web等多端部署.简单来说,一段代码可以在任何设备上跑,如果这个你没有听说过的话,那你应该听说过React Native吧,这个跟React Native相差不大,但是Facebook前几天出了一个条例,基本上大公司都已经放弃React/React Native了,但是Facebook决定将根据 MIT 许可证重新授权 React，Jest，Flow 和 Immutable.js,并没有提到React Native(估计大公司的程序员心中有一万个草泥马在奔腾).再说句题外话,Google还未正式发布的[Flutter](https://github.com/flutter/flutter),跟weex和React Native有异曲同工之妙,但我感觉Flutter将来会火(纯属个人想法)
+ - [weex](https://github.com/alibaba/weex)   star 14.9k<br>      Weex 能够完美兼顾性能与动态性，让移动开发者通过简捷的前端语法写出 Native 级别的性能体验，并支持iOS、安卓、YunOS 及 Web 等多端部署.简单来说,一段代码可以在任何设备上跑,如果这个你没有听说过的话,那你应该听说过React Native吧,这个跟React Native 相差不大,但是 Facebook 前几天出了一个条例,基本上大公司都已经放弃React/React Native了,但是 Facebook 决定将根据 MIT 许可证重新授权 React，Jest，Flow 和 Immutable.js,并没有提到 React Native (估计大公司的程序员心中有一万个草泥马在奔腾).再说句题外话,Google 还未正式发布的  [Flutter](https://github.com/flutter/flutter) ,跟 weex 和React Native 有异曲同工之妙,但我感觉 Flutter 将来会火(纯属个人想法)
  - [fastjson](https://github.com/alibaba/fastjson)  star 10.7k<br>
  Fastjson是一个Java语言编写的高性能功能完善的JSON库,速度最快，测试表明，fastjson具有极快的性能，超越任其他的Java Json parser。包括自称最快的JackJson；功能强大，完全支持JavaBean、集合、Map、日期、Enum，支持范型，支持自省；无依赖，能够直接运行在Java SE 5.0以上版本；支持Android；开源 (Apache 2.0) 
  - [dubbo](https://github.com/alibaba/dubbo)   star 11.4k<br>Dubbo是阿里巴巴公司开源的一个高性能优秀的服务框架，和spring框架无缝集成.Dubbo是一个分布式服务框架，致力于提供高性能和透明化的RPC远程服务调用方案，以及SOA服务治理方案。简单的说，dubbo就是个服务框架，如果没有分布式的需求，其实是不需要用的，只有在分布式的时候，才有dubbo这样的分布式服务框架的需求。
