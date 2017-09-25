@@ -80,7 +80,7 @@
  
 #### 2.6 [腾讯移动端UI](https://github.com/frozenui)
  -  [frozenui](https://github.com/frozenui/frozenui) star 2.2k <br>FrozenUI的CSS组件库,基于腾讯手Q样式规范 
-
+ -  [QMUI](https://github.com/QMUI)：QMUI 团队开源的 UI 组件，包括 iOS，Android，Web 三个平台
 
 ### 3.百度
 #### 3.1 [主团队](https://github.com/baidu)
