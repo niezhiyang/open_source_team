@@ -87,6 +87,7 @@
  -  [bfs](https://github.com/baidu/bfs) star 2.1k <br>百度的核心业务和数据库系统都依赖分布式文件系统作为底层存储，文件系统的可用性和性能对上层搜索业务的稳定性与效果有着至关重要的影响。现有的分布式文件系统（如HDFS等）是为离线批处理设计的，无法在保证高吞吐的情况下做到低延迟和持续可用，所以我们从搜索的业务特点出发，设计了百度文件系统。
  -  [sofa-pbrpc](https://github.com/baidu/sofa-pbrpc) star 1.4k<br>sofa-pbrpc是基于Google Protocol Buffers 实现的RPC网络通信库，在百度公司各部门得到广泛使用，每天支撑上亿次内部调用。sofa-pbrpc基于百度大搜索高并发高负载的业务场景不断打磨，成为一套简单易用的轻量级高性能RPC框架。
 
+ -  [mobile-deep-learning](https://github.com/baidu/mobile-deep-learning)  (2017年9月25号开源)<br>一个移动端深度学习框架,可以在移动设备上简单快速部署卷积神经网络（CNN）,主要是图像识别和目标检测，比如说手机百度的拍照搜图功能。
 
 #### 3.2 [主团队2](https://github.com/ecomfe)
 -  [echarts](https://github.com/ecomfe/echarts) star 20k<br>ECharts 是指 Enterprise Charts（商业产品图表库），提供商业产品常用图表库，底层基于 ZRender，创建了坐标系，图例，提示，工具箱等基础组件，并在此上构建出折线图（区域图）、柱状图（条状图）、散点图（气泡图）、K线图、饼图（环形图）、地图、力导向布局图，同时支持任意维度的堆积和多图表混合展现。纯Javascript 的图表库，提供直观，生动，可交互，可个性化定制的数据可视化图表
