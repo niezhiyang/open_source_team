@@ -43,7 +43,7 @@
 #### 1.2  [阿里巴巴前端团队](https://github.com/thx)
   -  [RAP](https://github.com/thx/RAP)   star 6.2k<br>用官网上的总结:Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理。阿里妈妈MUX团队出品！阿里巴巴都在用！1000+公司的选择！一直被抄袭，从未被超越
   
-#### 1.2  [阿里无线前端团队](https://github.com/amfe)
+#### 1.3  [阿里无线前端团队](https://github.com/amfe)
  -  [lib-flexible](https://github.com/amfe/lib-flexible)  star 5.7k<br>Flexible是淘宝弹性布局库,主要来完成H5页面的终端适配,简单点来说是h5页面适配android和ios各个屏幕
  
   
