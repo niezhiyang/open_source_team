@@ -194,7 +194,7 @@
  - [SOHU-DBProxy](https://github.com/SOHUDBA/SOHU-DBProxy) star .5k br>基本上不维护了
  SOHU-DBProxy是由 搜狐 数据库团队开发维护的一个基于MySQL协议的数据中间层项目。它在MySQL官方推出的MySQL-Proxy 0.8.3版本的基础上， 修改了大量bug，添加了很多功能特性。现在已经在sohu的多个业务线上使用
 #### 13.1 [搜狐TV]( https://github.com/sohutv)
- - [SOHU-DBProxy](https://github.com/sohutv/cachecloud) star 2.2br>
+ - [SOHU-DBProxy](https://github.com/sohutv/cachecloud) star 2.2 <br>
  CacheCloud提供一个Redis云管理平台：实现多种类型(Redis Standalone、Redis Sentinel、Redis Cluster)自动部署、解决Redis实例碎片化现象、提供完善统计、监控、运维功能、减少运维成本和误操作，提高机器的利用率，提供灵活的伸缩性，提供方便的接入客户端。
 
 
