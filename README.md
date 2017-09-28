@@ -23,7 +23,7 @@
 - [当当](#17当当)
 - [豆瓣](#18豆瓣)
 - [饿了么](#19饿了么)
-- [网易](#20网易)
+- [](#20网易)
 - [七牛](#21七牛)
 - [环信](#22环信)
 - [YY](#23yy)
@@ -258,7 +258,7 @@ Emmagee是网易杭州研究院QA团队开发的一个简单易上手的Android�
 
 
 
-#### 20.1 [网易技术部(网上查了查感觉是,如果不是请您指正)](https://github.com/netease) 
+#### 20.1 [网易技术部(网上查了查感觉是,如果不是请您指正)](https://github.com/session-replay-tools) 
 - [tcpcopy](https://github.com/session-replay-tools/tcpcopy) star 2.2k<br>
 tcpcopy是一种应用请求复制（基于tcp的packets）工具，其应用领域较广，目前已经应用于国内各大互联网公司,tcpcopy主要有如下功能：
 1）分布式压力测试工具，利用在线数据，可以测试系统能够承受的压力大小（远比ab压力测试工具真实地多）,也可以提前发现一些bug
