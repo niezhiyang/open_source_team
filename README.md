@@ -66,6 +66,9 @@
 -  [VasSonic](https://github.com/Tencent/VasSonic) star 5.6k(大约2017年7月开源的) <br>VasSonic取名于世嘉游戏形象音速小子，俗称H5首屏秒开,支持android,ios,后端.是腾讯VAS(SNG增值产品部QQ会员)团队研发的一个轻量级的高性能的Hybrid框架，专注于提升页面首屏加载速度，完美支持静态直出页面和动态直出页面，兼容离线包等方案。该框架使用终端应用层原生传输通道取代系统浏览器内核自身资源传输通道来请求页面主资源，在移动终端初始化的同时并行请求页面主资源并做到流式拦截，减少传统方案上终端初始化耗时长导致页面主资源发起请求时机慢或传统并行方案下必须等待主资源完成下载才能交给内核加载的影响。
 -  [wcdb](https://github.com/Tencent/wcdb) star 4k(2017年6月2号开源的)<br>WCDB 是一个高效、完整、易用的移动数据库框架，基于 SQLCipher，支持 iOS、macOS 和 Android。
 -  [angel](https://github.com/Tencent/angel) star 2.4k<br>Angel是一个基于参数服务器（Parameter Server）理念开发的高性能分布式机器学习平台，它基于腾讯内部的海量数据进行了反复的调优，并具有广泛的适用性和稳定性，模型维度越高，优势越明显。 Angel由腾讯和北京大学联合开发，兼顾了工业界的高可用性和学术界的创新性。
+-  [bugly](https://bugly.qq.com/v2/) <br>腾讯Bugly，为移动开发者提供专业的异常上报和运营统计，帮助开发者快速发现并解决异常，同时掌握产品运营动态，及时跟进用户反馈。支持Android 平台,iOS平台,Cocos2D,Unity3D
+
+
 
 #### 2.4 [QMUI](https://github.com/QMUI) 
 一个致力于提高项目 UI 开发效率的团队,包括 android , ios 和 web.
@@ -93,6 +96,7 @@
  -  [bfs](https://github.com/baidu/bfs) star 2.1k <br>百度的核心业务和数据库系统都依赖分布式文件系统作为底层存储，文件系统的可用性和性能对上层搜索业务的稳定性与效果有着至关重要的影响。现有的分布式文件系统（如HDFS等）是为离线批处理设计的，无法在保证高吞吐的情况下做到低延迟和持续可用，所以我们从搜索的业务特点出发，设计了百度文件系统。
  -  [sofa-pbrpc](https://github.com/baidu/sofa-pbrpc) star 1.4k<br>sofa-pbrpc是基于Google Protocol Buffers 实现的RPC网络通信库，在百度公司各部门得到广泛使用，每天支撑上亿次内部调用。sofa-pbrpc基于百度大搜索高并发高负载的业务场景不断打磨，成为一套简单易用的轻量级高性能RPC框架。
 
+ -  [brpc](https://github.com/brpc/brpc) star 5.0k<br> 在百度中使用的最常见的RPC框架，拥有60万个实例和500多种服务，在百度之内称为“百度rpc”。
  -  [mobile-deep-learning](https://github.com/baidu/mobile-deep-learning)  (2017年9月25号开源)<br>一个移动端深度学习框架,可以在移动设备上简单快速部署卷积神经网络（CNN）,主要是图像识别和目标检测，比如说手机百度的拍照搜图功能。
 
 #### 3.2 [主团队2](https://github.com/ecomfe)
