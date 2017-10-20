@@ -286,6 +286,11 @@ js-sdk基于七牛 API 开发的前端 JavaScript SDK,适用于 IE8+、Chrome、
 ### 23.YY
 #### 23.1 [主团队](https://github.com/yyued)
 感觉这个里面没有咱们想要的东西
+### 23.爱奇艺
+#### 23.1 [主团队](https://github.com/iqiyi)
+- [dpvs](https://github.com/iqiyi/dpvs) <br>
+DPVS是基于DPDK的高性能第4层负载均衡器。基于[阿里巴巴/ LVS](https://github.com/alibaba/LVS)修改而来，出于蓝而胜于蓝。
+DPDK全称为 "DPDK-LVS".为了达到高性能，使用了多种不同技术内核旁路（用户空间实现）无CPU，无密钥数据（无锁）RX转向和CPU绑定（避免上下文切换）批处理TX / RX Zero复制（避免数据包复制和系统调用）。轮询替换中断。高性能ICP的无锁信息。其他技术由DPDK加强
 
 ### 未完呆更新...
 
