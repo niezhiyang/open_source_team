@@ -39,6 +39,7 @@
  - [dubbo](https://github.com/alibaba/dubbo)   star 11.4k<br>Dubbo是阿里巴巴公司开源的一个高性能优秀的服务框架，和spring框架无缝集成.Dubbo是一个分布式服务框架，致力于提供高性能和透明化的RPC远程服务调用方案，以及SOA服务治理方案。简单的说，dubbo就是个服务框架，如果没有分布式的需求，其实是不需要用的，只有在分布式的时候，才有dubbo这样的分布式服务框架的需求。
  -  [druid](https://github.com/alibaba/druid)   star 7.9k<br>用官网github的一句话总结:Druid是Java语言中最好的数据库连接池。Druid能够提供强大的监控和扩展功能。
  -  [p3c](https://github.com/alibaba/p3c)   star 4k(2017年10月14号开源)<br>java代码规范插件 
+ -  [pouch](https://github.com/alibaba/pouch)   (2017年12月5号开源)<br>Pouch 是一款轻量级的容器技术，拥有快速高效、可移植性高、资源占用少等特性，主要帮助阿里更快的做到内部业务的交付，同时提高超大规模下数据中心的物理资源利用率
  
 
 #### 1.2  [阿里巴巴前端团队](https://github.com/thx)
