@@ -295,6 +295,11 @@ js-sdk基于七牛 API 开发的前端 JavaScript SDK,适用于 IE8+、Chrome、
 DPVS是基于DPDK的高性能第4层负载均衡器。基于[阿里巴巴/ LVS](https://github.com/alibaba/LVS)修改而来，出于蓝而胜于蓝。
 DPDK全称为 "DPDK-LVS".为了达到高性能，使用了多种不同技术内核旁路（用户空间实现）无CPU，无密钥数据（无锁）RX转向和CPU绑定（避免上下文切换）批处理TX / RX Zero复制（避免数据包复制和系统调用）。轮询替换中断。高性能ICP的无锁信息。其他技术由DPDK加强
 
+### 24. 云轴
+#### 24.1 [ZStack](https://github.com/zstackio)
+- [ZStack](https://github.com/zstackio/zstack)
+ZStack is open source IaaS(infrastructure as a service) software aiming to automate datacenters, managing resources of compute, storage, and networking all by APIs. Users can setup ZStack environments in a download-and-run manner, spending 5 minutes building a POC environment all on a single Linux machine, or 30 minutes building a multi-node production environment that can scale to hundreds of thousands of physical servers.
+
 ### 未完呆更新...
 
 
