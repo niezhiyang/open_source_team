@@ -150,7 +150,7 @@
 
 ### 7.58同城
 
-### 7.1 [主团队](https://github.com/58code)
+#### 7.1 [主团队](https://github.com/58code)
  感觉58同城的项目都比较老了,现在有很多其他项目比他的更完美,所以就不总结了
 ### 8.美团 
 #### 8.1 [美团点评(新)](https://github.com/Meituan-Dianping)
