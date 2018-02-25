@@ -286,6 +286,9 @@ js-sdk基于七牛 API 开发的前端 JavaScript SDK,适用于 IE8+、Chrome、
 ### 22.环信
 #### 22.1 [主团队](https://github.com/easemob)
 环信是是以IM即时通讯及移动在线客服为主要研发对象的专业型高科技的品牌。为开发者提供基于移动互联网的即时通讯能力，如单聊、群聊、发语音、发图片、发位置、实时音频、实时视频等，让开发者摆脱繁重的移动IM通讯底层开发，24小时即可让App拥有内置IM能力。
+
+
+
 ### 23.YY
 #### 23.1 [主团队](https://github.com/yyued)
 感觉这个里面没有咱们想要的东西
@@ -294,6 +297,15 @@ js-sdk基于七牛 API 开发的前端 JavaScript SDK,适用于 IE8+、Chrome、
 - [dpvs](https://github.com/iqiyi/dpvs) <br>
 DPVS是基于DPDK的高性能第4层负载均衡器。基于[阿里巴巴/ LVS](https://github.com/alibaba/LVS)修改而来，出于蓝而胜于蓝。
 DPDK全称为 "DPDK-LVS".为了达到高性能，使用了多种不同技术内核旁路（用户空间实现）无CPU，无密钥数据（无锁）RX转向和CPU绑定（避免上下文切换）批处理TX / RX Zero复制（避免数据包复制和系统调用）。轮询替换中断。高性能ICP的无锁信息。其他技术由DPDK加强
+
+### 24. 光宇游戏
+#### 24.1 [运维团队](https://github.com/gy-games)
+- [ELVES](https://github.com/gy-games/elves) Star 100+
+Elves为光宇游戏运维团队开源的一套自动化运维开发平台(IT Automatic Develop Platform)，面向开发，注重以编程实现运维自动化，致力于为运维研发人员提供便捷的运维自动化业务编程实现环境， Elves自身不提供业务性功能，运维开发人员可根据自身的业务进行应用(APP)的开发来实现相应业务的自动化管理。
+- [SmartPing](https://github.com/gy-games/smartping)  Start 200+
+SmartPing为一个各机器(点)间互PING检测工具，支持正向PING绘制，反向PING绘制，互PING拓扑绘制及报警功能。
+- [Bumblebee](https://github.com/gy-games/bumblebee) 
+Bumblebee(大黄蜂)运维工具为基于Elves开源自动化运维开发平台进行开发实现的一款桌面端远程命令行执行工具。
 
 ### 未完呆更新...
 
