@@ -221,7 +221,7 @@
 - [Saturn](https://github.com/vipshop/Saturn)<br>Saturn (定时任务调度系统)是唯品会自主研发的分布式的定时任务的调度平台，目标是取代传统的Linux Cron/Spring Batch Job/Quartz的方式，做到全域统一配置，统一监控，任务高可用以及分片。 目前该平台己平稳运行1年，承载着唯品会核心系统的全部定时任务的调度，监控，配置，经受住了生产环境的各种考验。 开源版本系唯品会生产使用的saturn核心，去除了唯品会的认证，监控，告警系统等依赖，可独立部署安装使用。
 - [redis-migrate-tool](https://github.com/vipshop/redis-migrate-tool)
 Redis 集群迁移工具，基于redis复制，快速，稳定。
-
+- [vjtools](https://github.com/vipshop/vjtools) 2018.5.321号开源<br>唯品会Java开发手册 , code formatter	IDE格式化模板,sonar rule	Sonar规则定制示例
 
 
 ### 17.当当
@@ -294,7 +294,8 @@ js-sdk基于七牛 API 开发的前端 JavaScript SDK,适用于 IE8+、Chrome、
 - [dpvs](https://github.com/iqiyi/dpvs) <br>
 DPVS是基于DPDK的高性能第4层负载均衡器。基于[阿里巴巴/ LVS](https://github.com/alibaba/LVS)修改而来，出于蓝而胜于蓝。
 DPDK全称为 "DPDK-LVS".为了达到高性能，使用了多种不同技术内核旁路（用户空间实现）无CPU，无密钥数据（无锁）RX转向和CPU绑定（避免上下文切换）批处理TX / RX Zero复制（避免数据包复制和系统调用）。轮询替换中断。高性能ICP的无锁信息。其他技术由DPDK加强
-
+- [Andromeda](https://github.com/iqiyi/Andromeda) <br>
+其实Android的组件化由来已久，而且已经有了一些不错的方案，特别是在页面跳转这方面，比如阿里的ARouter, 天猫的统跳协议, Airbnb的DeepLinkDispatch, 借助注解来完成页面的注册，从而很巧妙地实现了路由跳转,主要特点:也有跨进程的通信需求，并且还要支持跨进程通信中的Callback调用，以及全局的事件总线
 ### 未完呆更新...
 
 
