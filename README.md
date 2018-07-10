@@ -296,6 +296,10 @@ DPVS是基于DPDK的高性能第4层负载均衡器。基于[阿里巴巴/ LVS](
 DPDK全称为 "DPDK-LVS".为了达到高性能，使用了多种不同技术内核旁路（用户空间实现）无CPU，无密钥数据（无锁）RX转向和CPU绑定（避免上下文切换）批处理TX / RX Zero复制（避免数据包复制和系统调用）。轮询替换中断。高性能ICP的无锁信息。其他技术由DPDK加强
 - [Andromeda](https://github.com/iqiyi/Andromeda) <br>
 其实Android的组件化由来已久，而且已经有了一些不错的方案，特别是在页面跳转这方面，比如阿里的ARouter, 天猫的统跳协议, Airbnb的DeepLinkDispatch, 借助注解来完成页面的注册，从而很巧妙地实现了路由跳转,主要特点:也有跨进程的通信需求，并且还要支持跨进程通信中的Callback调用，以及全局的事件总线
+### 25.聚美优品
+#### 24.1 [主团队](https://github.com/JumeiRdGroup)
+- [Router](https://github.com/JumeiRdGroup/Router) <br>
+一款简单的，支持在单品、组件化、插件化等环境下使用的路由框架。
 ### 未完呆更新...
 
 
