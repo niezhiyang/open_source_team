@@ -28,6 +28,8 @@
 - [环信](#22环信)
 - [YY](#23yy)
 - [爱奇艺](#24爱奇艺)
+- [聚美优品](#25聚美优品)
+- [美丽联合集团(蘑菇街、美丽说)](#26美丽联合集团)
 
 
 ### 1.阿里巴巴
@@ -297,9 +299,13 @@ DPDK全称为 "DPDK-LVS".为了达到高性能，使用了多种不同技术内�
 - [Andromeda](https://github.com/iqiyi/Andromeda) <br>
 其实Android的组件化由来已久，而且已经有了一些不错的方案，特别是在页面跳转这方面，比如阿里的ARouter, 天猫的统跳协议, Airbnb的DeepLinkDispatch, 借助注解来完成页面的注册，从而很巧妙地实现了路由跳转,主要特点:也有跨进程的通信需求，并且还要支持跨进程通信中的Callback调用，以及全局的事件总线
 ### 25.聚美优品
-#### 24.1 [主团队](https://github.com/JumeiRdGroup)
+#### 25.1 [主团队](https://github.com/JumeiRdGroup)
 - [Router](https://github.com/JumeiRdGroup/Router) <br>
 一款简单的，支持在单品、组件化、插件化等环境下使用的路由框架。
+### 25.美丽联合集团
+#### 25.1 [主团队](https://github.com/meili)
+- [minui](https://github.com/meili/minui) <br>
+基于规范的小程序 UI 组件库，自定义标签组件，简洁、易用、工具化 
 ### 未完呆更新...
 
 
