@@ -162,7 +162,7 @@
  
 
 #### 8.2 [美团点评(老)](https://github.com/Meituan)
- 已经合并到8.1
+ - [WMRouter](https://github.com/meituan/WMRouter) <br>WMRouter是一款Android路由框架，基于组件化的设计思路，有功能灵活、使用简单的特点。
 
 #### 8.3 [大众点评(老)](https://github.com/dianping)
  - [cat](https://github.com/dianping/cat) star 1.9k<br> CAT基于Java开发的实时应用监控平台，包括实时应用监控，业务监控
