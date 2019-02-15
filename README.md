@@ -52,7 +52,8 @@
   
 #### 1.4  [阿里无线前端团队](https://github.com/amfe)
  -  [lib-flexible](https://github.com/amfe/lib-flexible)  star 5.7k<br>Flexible是淘宝弹性布局库,主要来完成H5页面的终端适配,简单点来说是h5页面适配android和ios各个屏幕
- 
+#### 1.4  [蚂蚁金服](https://github.com/alipay)
+
   
   
   
