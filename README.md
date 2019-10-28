@@ -294,9 +294,11 @@ js-sdk基于七牛 API 开发的前端 JavaScript SDK,适用于 IE8+、Chrome、
 ### 22.环信
 #### 22.1 [主团队](https://github.com/easemob)
 环信是是以IM即时通讯及移动在线客服为主要研发对象的专业型高科技的品牌。为开发者提供基于移动互联网的即时通讯能力，如单聊、群聊、发语音、发图片、发位置、实时音频、实时视频等，让开发者摆脱繁重的移动IM通讯底层开发，24小时即可让App拥有内置IM能力。
+
 ### 23.YY
 #### 23.1 [主团队](https://github.com/yyued)
 感觉这个里面没有咱们想要的东西
+
 ### 24.爱奇艺
 #### 24.1 [主团队](https://github.com/iqiyi)
 - [dpvs](https://github.com/iqiyi/dpvs) <br>
@@ -304,22 +306,28 @@ DPVS是基于DPDK的高性能第4层负载均衡器。基于[阿里巴巴/ LVS](
 DPDK全称为 "DPDK-LVS".为了达到高性能，使用了多种不同技术内核旁路（用户空间实现）无CPU，无密钥数据（无锁）RX转向和CPU绑定（避免上下文切换）批处理TX / RX Zero复制（避免数据包复制和系统调用）。轮询替换中断。高性能ICP的无锁信息。其他技术由DPDK加强
 - [Andromeda](https://github.com/iqiyi/Andromeda) <br>
 其实Android的组件化由来已久，而且已经有了一些不错的方案，特别是在页面跳转这方面，比如阿里的ARouter, 天猫的统跳协议, Airbnb的DeepLinkDispatch, 借助注解来完成页面的注册，从而很巧妙地实现了路由跳转,主要特点:也有跨进程的通信需求，并且还要支持跨进程通信中的Callback调用，以及全局的事件总线
+
 ### 25.聚美优品
 #### 25.1 [主团队](https://github.com/JumeiRdGroup)
 - [Router](https://github.com/JumeiRdGroup/Router) <br>
 一款简单的，支持在单品、组件化、插件化等环境下使用的路由框架。
+
 ### 26.美丽联合集团
 #### 25.1 [主团队](https://github.com/meili)
 - [minui](https://github.com/meili/minui) <br>
 基于规范的小程序 UI 组件库，自定义标签组件，简洁、易用、工具化 
+
 ### 27.字节跳动(今日头条)
 #### 25.1 [主团队](https://github.com/bytedance)
+
 ### 28.去哪网
 #### 28.1 [主团队](https://github.com/qunarcorp)
+
 ### 29.携程
 #### 29.1 [主团队](https://github.com/ctripcorp)
 - [apollo](https://github.com/ctripcorp/apollo) <br>
 Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。
+
 ### 30.陌陌
 #### 30.1 [主团队](https://github.com/momosecurity)
 
