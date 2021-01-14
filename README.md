@@ -331,6 +331,10 @@ Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能�
 ### 30.陌陌
 #### 30.1 [主团队](https://github.com/momosecurity)
 
+### 30.快手
+#### 30.1 [主团队](https://github.com/KwaiAppTeam)
+高性能线上内存监控方案
+
 ### 31.京东
 #### 31.1 京东数科
 - [shardingsphere](https://github.com/apache/incubator-shardingsphere) <br>
