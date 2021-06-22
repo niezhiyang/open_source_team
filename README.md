@@ -124,7 +124,7 @@
    这个里面比较大的开源项目感觉没有什么,所以自己可以看一看,我就不在这里总结了
 
 #### 3.5 [人工智能](https://github.com/baidu-research)
--  [warp-ctc](https://github.com/baidu-research/warp-ctc) star 2.9K<br>Warp-CTC是一个可以应用在CPU和GPU上高效并行的CTC代码库 （library） 介绍 CTCConnectionist Temporal Classification作为一个损失函数，用于在序列数据上进行监督式学习，不需要对齐输入数据及标签。比如，CTC可以被用来训练端对端的语音识别系统
+-  [warp-ctc](https://github.com/baidu-research/warp-ctc) ![](https://badgen.net/github/stars/baidu-research/warp-ctc) <br>Warp-CTC是一个可以应用在CPU和GPU上高效并行的CTC代码库 （library） 介绍 CTCConnectionist Temporal Classification作为一个损失函数，用于在序列数据上进行监督式学习，不需要对齐输入数据及标签。比如，CTC可以被用来训练端对端的语音识别系统
   
 
 
@@ -136,23 +136,23 @@
 
 ### 5.360
 #### 5.1 [主团队](https://github.com/Qihoo360)
- - [Atlas](https://github.com/Qihoo360/Atlas) star 3.0k <br>Atlas是由 Qihoo 360,  Web平台部基础架构团队开发维护的一个基于MySQL协议的数据中间层项目。它在MySQL官方推出的MySQL-Proxy 0.8.2版本的基础上，修改了大量bug，添加了很多功能特性。目前该项目在360公司内部得到了广泛应用，很多MySQL业务已经接入了Atlas平台，每天承载的读写请求数达几十亿条。
- - [DroidPlugin](https://github.com/Qihoo360/DroidPlugin) star 1.4k<br>感觉已过时
+ - [Atlas](https://github.com/Qihoo360/Atlas) ![](https://badgen.net/github/stars/Qihoo360/Atlas) <br>Atlas是由 Qihoo 360,  Web平台部基础架构团队开发维护的一个基于MySQL协议的数据中间层项目。它在MySQL官方推出的MySQL-Proxy 0.8.2版本的基础上，修改了大量bug，添加了很多功能特性。目前该项目在360公司内部得到了广泛应用，很多MySQL业务已经接入了Atlas平台，每天承载的读写请求数达几十亿条。
+ - [DroidPlugin](https://github.com/Qihoo360/DroidPlugin) ![](https://badgen.net/github/stars/Qihoo360/DroidPlugin) <br>感觉已过时
  DroidPlugin 是***360手机助手***在Android系统上实现了一种新的***插件机制***:它可以在无需安装、修改的情况下运行APK文件,此机制对改进大型APP的架构，实现多团队协作开发具有一定的好处。
- - [RePlugin](https://github.com/Qihoo360/RePlugin) star 3.6k (2017年06月30日开源)<br>RePlugin 其插件化方案是一套完整的、稳定的、适合全面使用的，占坑类插件化方案，于 2014 年中旬从 360 手机卫士团队产生，并正式在卫士上启用。360 表示 RePlugin 无论大小项目均可使用，稳定与灵活兼得，目前 360 公司几乎所有的亿级用户量的 APP ，以及多款主流第三方 APP ，都采用了 RePlugin 方案. 与其相媲美的还有滴滴的[VirtualAPK](https://github.com/didi/VirtualAPK),感觉滴滴的这个好像厉害点(我是从github的star看的)
+ - [RePlugin](https://github.com/Qihoo360/RePlugin) ![](https://badgen.net/github/stars/Qihoo360/RePlugin) (2017年06月30日开源)<br>RePlugin 其插件化方案是一套完整的、稳定的、适合全面使用的，占坑类插件化方案，于 2014 年中旬从 360 手机卫士团队产生，并正式在卫士上启用。360 表示 RePlugin 无论大小项目均可使用，稳定与灵活兼得，目前 360 公司几乎所有的亿级用户量的 APP ，以及多款主流第三方 APP ，都采用了 RePlugin 方案. 与其相媲美的还有滴滴的[VirtualAPK](https://github.com/didi/VirtualAPK),感觉滴滴的这个好像厉害点(我是从github的star看的)
  
 #### 5.2 [奇舞团](https://github.com/75team) 
   奇舞团是360内部最大的前端团队，服务于360内大部分的前端业务并致力于培养和输送更多的前端人才。
- - [ThinkJS](https://github.com/thinkjs/thinkjs) star 3.6k  
+ - [ThinkJS](https://github.com/thinkjs/thinkjs) ![](https://badgen.net/github/stars/thinkjs/thinkjs) <br>
  ThinkJS 是一款拥抱未来的 Node.js Web 框架，致力于集成项目最佳实践，规范项目让企业级团队开发变得更加简单，更加高效。
- - [Firekylin](https://github.com/firekylin/firekylin) star 1.2k  
+ - [Firekylin](https://github.com/firekylin/firekylin) ![](https://badgen.net/github/stars/firekylin/firekylin) <br>
  Firekylin 是基于 ThinkJS 和 React 构建的开源博客系统
  
 ### 6.小米
 
 #### 6.1 [主团队](https://github.com/xiaomi)
- - [minos](https://github.com/XiaoMi/minos)<br>Minos 是小米公司开发的一个分布式的发布和监控系统。最初是小米开发的用来在 Hadoop 和 ZooKeeper 集群上发布和管理的工具。Minos可轻松扩展来支持其他的系统，目前已经支持包括 HDFS、YARN 和 Impala 。
- - [open-falcon](https://github.com/XiaoMi/open-falcon) star 2.1k<br>用官网的话概述:监控系统业界有很多杰出的开源监控系统。我们在早期，一直在用zabbix，不过随着业务的快速发展，以及互联网公司特有的一些需求，现有的开源的监控系统在性能、扩展性、和用户的使用效率方面，已经无法支撑了。
+ - [minos](https://github.com/XiaoMi/minos) ![](https://badgen.net/github/stars/XiaoMi/minos) <br>Minos 是小米公司开发的一个分布式的发布和监控系统。最初是小米开发的用来在 Hadoop 和 ZooKeeper 集群上发布和管理的工具。Minos可轻松扩展来支持其他的系统，目前已经支持包括 HDFS、YARN 和 Impala 。
+ - [open-falcon](https://github.com/XiaoMi/open-falcon) ![](https://badgen.net/github/stars/XiaoMi/open-falcon) <br>用官网的话概述:监控系统业界有很多杰出的开源监控系统。我们在早期，一直在用zabbix，不过随着业务的快速发展，以及互联网公司特有的一些需求，现有的开源的监控系统在性能、扩展性、和用户的使用效率方面，已经无法支撑了。
 因此，我们在过去的一年里，从互联网公司的一些需求出发，从各位SRE、SA、DEVS的使用经验和反馈出发，结合业界的一些大的互联网公司做监控，用监控的一些思考出发，设计开发了小米的监控系统
  
 
@@ -162,122 +162,124 @@
  感觉58同城的项目都比较老了,现在有很多其他项目比他的更完美,所以就不总结了
 ### 8.美团 
 #### 8.1 [美团点评(新)](https://github.com/Meituan-Dianping)
- - [Robust](https://github.com/Meituan-Dianping/Robust) star 2.2k<br>新一代热更新系统Robust，对Android版本无差别兼容。无需发版就可以做到随时修改线上bug，快速对重大线上问题0.4.7作出反应，补丁修补成功率高达99.9%。
- - [walle](https://github.com/Meituan-Dianping/walle) star 1.9k<br>Android Signature V2 Scheme签名下的新一代渠道包打包神器,通过在Apk中的APK Signature Block区块添加自定义的渠道信息来生成渠道包，从而提高了渠道包生成效率，可以作为单机工具来使用，也可以部署在HTTP服务器上来实时处理渠道包Apk的升级网络请求。
- - [SQLAdvisor](https://github.com/Meituan-Dianping/SQLAdvisor) satr 1.7k<br>SQLAdvisor是由美团点评公司技术工程部DBA团队（北京）开发维护的一个分析SQL给出索引优化建议的工具。它基于MySQL原生态词法解析，结合分析SQL中的where条件、聚合条件、多表Join关系 给出索引优化建议。目前SQLAdvisor在美团点评内部广泛应用
+ - [Robust](https://github.com/Meituan-Dianping/Robust) ![](https://badgen.net/github/stars/Meituan-Dianping/Robust) <br>新一代热更新系统Robust，对Android版本无差别兼容。无需发版就可以做到随时修改线上bug，快速对重大线上问题0.4.7作出反应，补丁修补成功率高达99.9%。
+ - [walle](https://github.com/Meituan-Dianping/walle) ![](https://badgen.net/github/stars/Meituan-Dianping/walle) <br>Android Signature V2 Scheme签名下的新一代渠道包打包神器,通过在Apk中的APK Signature Block区块添加自定义的渠道信息来生成渠道包，从而提高了渠道包生成效率，可以作为单机工具来使用，也可以部署在HTTP服务器上来实时处理渠道包Apk的升级网络请求。
+ - [SQLAdvisor](https://github.com/Meituan-Dianping/SQLAdvisor) ![](https://badgen.net/github/stars/Meituan-Dianping/SQLAdvisor) <br>SQLAdvisor是由美团点评公司技术工程部DBA团队（北京）开发维护的一个分析SQL给出索引优化建议的工具。它基于MySQL原生态词法解析，结合分析SQL中的where条件、聚合条件、多表Join关系 给出索引优化建议。目前SQLAdvisor在美团点评内部广泛应用
  
 
 #### 8.2 [美团点评(老)](https://github.com/Meituan)
- - [WMRouter](https://github.com/meituan/WMRouter) <br>WMRouter是一款Android路由框架，基于组件化的设计思路，有功能灵活、使用简单的特点。
+ - [WMRouter](https://github.com/meituan/WMRouter) ![](https://badgen.net/github/stars/meituan/WMRouter) <br>WMRouter是一款Android路由框架，基于组件化的设计思路，有功能灵活、使用简单的特点。
 
 #### 8.3 [大众点评(老)](https://github.com/dianping)
- - [cat](https://github.com/dianping/cat) star 1.9k<br> CAT基于Java开发的实时应用监控平台，包括实时应用监控，业务监控
+ - [cat](https://github.com/dianping/cat) ![](https://badgen.net/github/stars/dianping/cat) <br> CAT基于Java开发的实时应用监控平台，包括实时应用监控，业务监控
  
  
 
 ### 9.滴滴出行
 #### 9.1 [主团队](https://github.com/didi) 
- - [VirtualAPK](https://github.com/didi/VirtualAPK) star 4.5k(2017年6月3号开源)<br>Android插件化技术是比较热门领域，VirtualAPK框架功能完备，支持Android四大组件，良好的兼容性，且入侵性较低，作为加载耦合插件方案是较好选择。兼容市面上几乎所有的Android手机，这一点已经在滴滴出行客户端中得到验证；
+ - [VirtualAPK](https://github.com/didi/VirtualAPK) ![](https://badgen.net/github/stars/didi/VirtualAPK) (2017年6月3号开源)<br>Android插件化技术是比较热门领域，VirtualAPK框架功能完备，支持Android四大组件，良好的兼容性，且入侵性较低，作为加载耦合插件方案是较好选择。兼容市面上几乎所有的Android手机，这一点已经在滴滴出行客户端中得到验证；
 资源方面适配小米、Vivo、Nubia等，对未知机型采用自适应适配方案；极少的Binder Hook，目前仅仅hook了两个Binder：AMS和IContentProvider，hook过程做了充分的兼容性适配；插件运行逻辑和宿主隔离，确保框架的任何问题都不会影响宿主的
+ - [DoraemonKit](https://github.com/didi/DoraemonKit) ![](https://badgen.net/github/stars/didi/DoraemonKit) <br>DoKit诞生于滴滴城运服体验技术部，是一款面向泛前端产品研发全生命周期的效率平台。经过两年的发展，当前DoKit已经发展成了一个相对完整的生态，比如DoKit For Android、DoKit For iOS、DoKit For 小程序、DoKit For Flutter、DoKit For Web
+ - [booster](https://github.com/didi/booster) ![](https://badgen.net/github/stars/didi/booster) <br>是一款专门为移动应用设计的易用、轻量级且可扩展的质量优化框架，其目标主要是为了解决随着 APP 复杂度的提升而带来的性能、稳定性、包体积等一系列质量问题
 
 #### 9.2 [FE前端团队](https://github.com/DDFE) 
-  - [DDFE-blog](https://github.com/DDFE/DDFE-blog) star 1.4k<br>这个项目也不是什么开源的项目,其实就是滴滴内部公司所分享的一些结束而已
+  - [DDFE-blog](https://github.com/DDFE/DDFE-blog) ![](https://badgen.net/github/stars/DDFE/DDFE-blog) <br>这个项目也不是什么开源的项目,其实就是滴滴内部公司所分享的一些结束而已
    
   
 
 ### 10.知乎
 #### 10.1 [主团队](https://github.com/zhihu)
-   - [Matisse](https://github.com/zhihu/Matisse) star 5.0k <br>在实际开发中，选择图片,选择视频都是比不可少的,Matisse 完全遵循 Android 交互设计规范. 知乎 App 是支持日夜间模式的，Matisse 也需要具备这个功能。但是作为一个开源库，不能依赖主 App 的日夜间模式的实现，我们为 Matisse 内置了两套主题，蓝色的 Zhihu 主题和暗色的 Dracula 主题。当然了也可以自定义主题.只可以只有android版本,Matisse需要 [Picasso](https://github.com/square/picasso) 或者 [Glide](https://github.com/bumptech/glide) 的支持
+   - [Matisse](https://github.com/zhihu/Matisse) ![](https://badgen.net/github/stars/zhihu/Matisse) <br>在实际开发中，选择图片,选择视频都是比不可少的,Matisse 完全遵循 Android 交互设计规范. 知乎 App 是支持日夜间模式的，Matisse 也需要具备这个功能。但是作为一个开源库，不能依赖主 App 的日夜间模式的实现，我们为 Matisse 内置了两套主题，蓝色的 Zhihu 主题和暗色的 Dracula 主题。当然了也可以自定义主题.只可以只有android版本,Matisse需要 [Picasso](https://github.com/square/picasso) 或者 [Glide](https://github.com/bumptech/glide) 的支持
  
 
 ### 11.哔哩哔哩
 #### 11.1 [主团队](https://github.com/Bilibili)
- - [ijkplayer](https://github.com/Bilibili/ijkplayer) star 15.4k <br>ijkplayer是Bilibili基于ffmpeg开发并开源的轻量级视频播放器，支持播放本地网络视频，也支持流媒体播放。支持Android&iOS。实现了跨平台功能，API易于集成；编译配置可裁剪，方便控制安装包大小；支持硬件加速解码，更加省电；提供Android平台下应用弹幕集成的解决方案，此方案目前已用于美拍和斗鱼 APP。
- - [flv.js](https://github.com/Bilibili/flv.js) star 10.1k <br>flv.js是 HTML5 Flash 视频（FLV）播放器，纯原生 JavaScript 开发，没有用到 Flash。由 bilibili 网站开源。概览：一个实现了在 HTML5 视频中播放 FLV 格式视频的 JavaScript 库。它的工作原理是将 FLV 文件流转码复用成 ISO BMFF（MP4 碎片）片段，然后通过 Media Source Extensions 将 MP4 片段喂进浏览器。flv.js 是使用 ECMAScript 6 编写的，然后通过 Babel Compiler 编译成 ECMAScript 5，使用 Browserify 打包。
- - [DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster) star 5.8k <br>DanmakuFlameMaster 是 Android 上开源弹幕解析绘制引擎项目，也是 Android 上最好的开源弹幕引擎·烈焰弹幕。其架构清晰，简单易用，支持多种高效率绘制方式选择，支持多种自定义功能设置上。目前，DanmakuFlameMaster 开发包已被包括优酷土豆、开迅视频、MissEvan、echo回声、斗鱼TV、天天动听、被窝声次元、ACFUN 等 APP 使用。
- - [MagicaSakura](https://github.com/Bilibili/MagicaSakura) star 2.2k<br>MagicaSakura是Android上的多主题框架,可以无闪屏地对程序中的控件更换主题 , 其采用的遍历View树的方式对每一个控件进行操作(区别于保存集合).在控件变色上使的是对Drawable进行tint(区别于只对Drawable或者ImageView设置ColorFilter),其中使用到了V4包的DrawableCompat, 还对特别的View进行了特殊处理. 使用TintDrawable的方式不会影响原来的属性和使用方式.
+ - [ijkplayer](https://github.com/Bilibili/ijkplayer) ![](https://badgen.net/github/stars/Bilibili/ijkplayer) <br>ijkplayer是Bilibili基于ffmpeg开发并开源的轻量级视频播放器，支持播放本地网络视频，也支持流媒体播放。支持Android&iOS。实现了跨平台功能，API易于集成；编译配置可裁剪，方便控制安装包大小；支持硬件加速解码，更加省电；提供Android平台下应用弹幕集成的解决方案，此方案目前已用于美拍和斗鱼 APP。
+ - [flv.js](https://github.com/Bilibili/flv.js) ![](https://badgen.net/github/stars/Bilibili/flv.js) <br>flv.js是 HTML5 Flash 视频（FLV）播放器，纯原生 JavaScript 开发，没有用到 Flash。由 bilibili 网站开源。概览：一个实现了在 HTML5 视频中播放 FLV 格式视频的 JavaScript 库。它的工作原理是将 FLV 文件流转码复用成 ISO BMFF（MP4 碎片）片段，然后通过 Media Source Extensions 将 MP4 片段喂进浏览器。flv.js 是使用 ECMAScript 6 编写的，然后通过 Babel Compiler 编译成 ECMAScript 5，使用 Browserify 打包。
+ - [DanmakuFlameMaster](https://github.com/Bilibili/DanmakuFlameMaster) ![](https://badgen.net/github/stars/Bilibili/DanmakuFlameMaster) <br>DanmakuFlameMaster 是 Android 上开源弹幕解析绘制引擎项目，也是 Android 上最好的开源弹幕引擎·烈焰弹幕。其架构清晰，简单易用，支持多种高效率绘制方式选择，支持多种自定义功能设置上。目前，DanmakuFlameMaster 开发包已被包括优酷土豆、开迅视频、MissEvan、echo回声、斗鱼TV、天天动听、被窝声次元、ACFUN 等 APP 使用。
+ - [MagicaSakura](https://github.com/Bilibili/MagicaSakura) ![](https://badgen.net/github/stars/Bilibili/MagicaSakura) <br>MagicaSakura是Android上的多主题框架,可以无闪屏地对程序中的控件更换主题 , 其采用的遍历View树的方式对每一个控件进行操作(区别于保存集合).在控件变色上使的是对Drawable进行tint(区别于只对Drawable或者ImageView设置ColorFilter),其中使用到了V4包的DrawableCompat, 还对特别的View进行了特殊处理. 使用TintDrawable的方式不会影响原来的属性和使用方式.
 
  
 ### 12.新浪微博
 #### 12.1 [主团队](https://github.com/weibocom)
 
-- [motan](https://github.com/weibocom/motan) star3.5k<br> motan是新浪微博开源的一套轻量级、方便使用的RPC框架,支撑着新浪微博的千亿调用，曾经在2014年的春晚中有着千亿次的调用，对抗了春晚的最高峰值。Motan 属于服务治理类型，是一个基于 Java 开发的高性能的轻量级 RPC 框架，Motan 提供了实用的服务治理功能和优秀的 RPC 协议扩展能力
+- [motan](https://github.com/weibocom/motan) ![](https://badgen.net/github/stars/weibocom/motan) <br> motan是新浪微博开源的一套轻量级、方便使用的RPC框架,支撑着新浪微博的千亿调用，曾经在2014年的春晚中有着千亿次的调用，对抗了春晚的最高峰值。Motan 属于服务治理类型，是一个基于 Java 开发的高性能的轻量级 RPC 框架，Motan 提供了实用的服务治理功能和优秀的 RPC 协议扩展能力
  
 
 ### 13.搜狐
 #### 13.1 [主团队](https://github.com/SOHUDBA)
- - [SOHU-DBProxy](https://github.com/SOHUDBA/SOHU-DBProxy) star .5k br>基本上不维护了
+ - [SOHU-DBProxy](https://github.com/SOHUDBA/SOHU-DBProxy) ![](https://badgen.net/github/stars/SOHUDBA/SOHU-DBProxy) br>基本上不维护了
  SOHU-DBProxy是由 搜狐 数据库团队开发维护的一个基于MySQL协议的数据中间层项目。它在MySQL官方推出的MySQL-Proxy 0.8.3版本的基础上， 修改了大量bug，添加了很多功能特性。现在已经在sohu的多个业务线上使用
 #### 13.1 [搜狐TV]( https://github.com/sohutv)
- - [SOHU-DBProxy](https://github.com/sohutv/cachecloud) star 2.2 <br>
+ - [SOHU-DBProxy](https://github.com/sohutv/cachecloud) ![](https://badgen.net/github/stars/sohutv/cachecloud) <br>
  CacheCloud提供一个Redis云管理平台：实现多种类型(Redis Standalone、Redis Sentinel、Redis Cluster)自动部署、解决Redis实例碎片化现象、提供完善统计、监控、运维功能、减少运维成本和误操作，提高机器的利用率，提供灵活的伸缩性，提供方便的接入客户端。
 
 
 ### 14.极光开发者(Jpush)
 #### 14.1 [主团队](https://github.com/jpush)
 极光开发者服务官方开源站。包括：极光推送（JPush）、极光IM（JMessage）、极光短信（JSMS）、极光统计（JAnalytics）等相关开源项目
-- [aurora-imui](https://github.com/jpush/aurora-imui) star 2.3k<br>
+- [aurora-imui](https://github.com/jpush/aurora-imui) ![](https://badgen.net/github/stars/jpush/aurora-imui) <br>
 通用 IM 聊天 UI 组件，已经同时支持 Android/iOS/RN
 
 ### 15.开源中国
 #### 15.1 [主团队](https://github.com/oschina) 
-- [开源中国各个版本app的开源代码(android版本)](https://gitee.com/oschina/android-app) star 4.1k 在码云上<br>
-- [开源中国各个版本app的开源代码(ios版本)](https://gitee.com/oschina/iphone-app) star 1.7k 在码云上<br>
+- [开源中国各个版本app的开源代码(android版本)](https://gitee.com/oschina/android-app) ![](https://badgen.net/gitee.com/oschina/android-app) 在码云上<br>
+- [开源中国各个版本app的开源代码(ios版本)](https://gitee.com/oschina/iphone-app) ![](https://badgen.net/gitee.com/oschina/iphone-app) 在码云上<br>
 
 ### 16.唯品会
 #### 16.1 [主团队](https://github.com/vipshop)
-- [Saturn](https://github.com/vipshop/Saturn)<br>Saturn (定时任务调度系统)是唯品会自主研发的分布式的定时任务的调度平台，目标是取代传统的Linux Cron/Spring Batch Job/Quartz的方式，做到全域统一配置，统一监控，任务高可用以及分片。 目前该平台己平稳运行1年，承载着唯品会核心系统的全部定时任务的调度，监控，配置，经受住了生产环境的各种考验。 开源版本系唯品会生产使用的saturn核心，去除了唯品会的认证，监控，告警系统等依赖，可独立部署安装使用。
-- [redis-migrate-tool](https://github.com/vipshop/redis-migrate-tool)
+- [Saturn](https://github.com/vipshop/Saturn) ![](https://badgen.net/github/stars/vipshop/Saturnvipshop/Saturn) <br>Saturn (定时任务调度系统)是唯品会自主研发的分布式的定时任务的调度平台，目标是取代传统的Linux Cron/Spring Batch Job/Quartz的方式，做到全域统一配置，统一监控，任务高可用以及分片。 目前该平台己平稳运行1年，承载着唯品会核心系统的全部定时任务的调度，监控，配置，经受住了生产环境的各种考验。 开源版本系唯品会生产使用的saturn核心，去除了唯品会的认证，监控，告警系统等依赖，可独立部署安装使用。
+- [redis-migrate-tool](https://github.com/vipshop/redis-migrate-tool) ![](https://badgen.net/github/stars/vipshop/redis-migrate-tool) <br>
 Redis 集群迁移工具，基于redis复制，快速，稳定。
-- [vjtools](https://github.com/vipshop/vjtools) 2018.5.321号开源<br>唯品会Java开发手册 , code formatter	IDE格式化模板,sonar rule	Sonar规则定制示例
+- [vjtools](https://github.com/vipshop/vjtools)![](https://badgen.net/github/stars/vipshop/vjtools) <br> 2018.5.321号开源<br>唯品会Java开发手册 , code formatter	IDE格式化模板,sonar rule	Sonar规则定制示例
 
 
 ### 17.当当
 #### 17.1 [主团队](https://github.com/dangdangdotcom)
-- [elastic-job](https://github.com/dangdangdotcom/elastic-job) star 2.7k<br>
+- [elastic-job](https://github.com/dangdangdotcom/elastic-job) ![](https://badgen.net/github/stars/dangdangdotcom/elastic-job) <br>
 elastic-job是当当开源的一款非常好用是一个分布式的定时任务框架,基于成熟的定时任务作业框架Quartz cron表达式执行定时任务相对于Quartz它增加了任务分片。这样能有效的防止单节点部署项目带来的种种不便
-- [dubbox](https://github.com/dangdangdotcom/dubbox) star 4.1k<br>
+- [dubbox](https://github.com/dangdangdotcom/dubbox) ![](https://badgen.net/github/stars/dangdangdotcom/dubbox) <br>
 看这个名字是不是跟阿里巴巴的[dubbo](https://github.com/alibaba/dubbo)很像呀,没错,你猜对了,这个项目就是从阿里巴巴fork过来的,并且维护五年了,dubbox是一个分布式服务框架，致力于提供高性能和透明化的RPC远程服务调用方案，以及SOA服务治理方案。简单的说，dubbox就是个服务框架，如果没有分布式的需求，其实是不需要用的，只有在分布式的时候，才有dubbox这样的分布式服务框架的需求，并且本质上是个服务调用的东东，说白了就是个远程服务调用的分布式框架,dubbox采用全Spring配置方式，透明化接入应用，对应用没有任何API侵入，只需用Spring加载dubbox的配置即可，dubbox基于Spring的Schema扩展进行加载。
 
 
 ### 18.豆瓣
 #### 18.1 [主团队](https://github.com/douban)
- - [dpark](https://github.com/douban/dpark) star 2.2k<br>
+ - [dpark](https://github.com/douban/dpark) ![](https://badgen.net/github/stars/douban/dpark) <br>
  DPark 是 Spark 的 Python克隆，是一个Python实现的分布式计算框架，可以非常方便地实现大规模数据处理和迭代计算。DPark由豆瓣实现，目前豆瓣内部的绝大多数数据分析都使用DPark 完成，正日趋完善。
- - [DOUAudioStreamer](https://github.com/douban/DOUAudioStreamer) star 2.4k<br>
+ - [DOUAudioStreamer](https://github.com/douban/DOUAudioStreamer) ![](https://badgen.net/github/stars/douban/DOUAudioStreamer) <br>
  DOUAudioStreamer 是 iOS 和 Mac 的基于核心音频的流媒体音频播放器。
- - [code](https://github.com/douban/code) star 1.8k<br>
+ - [code](https://github.com/douban/code) ![](https://badgen.net/github/stars/douban/code)  <br>
  code 是豆瓣开发的一个基于 git 版本控制系统的协作平台— C: CommunityO:OriginalD:DeveloperE:Eldamar目前CODE仅开放了一个框架，支持：clone & push project和create project和create user
 
 
 ### 19.饿了么
 
 #### 19.1 [主团队](https://github.com/eleme)
-- [thriftpy](https://github.com/eleme/thriftpy) <br>
+- [thriftpy](https://github.com/eleme/thriftpy) ![](https://badgen.net/github/stars/eleme/thriftpy)  <br>
 Thriftpy是饿了么根据Apache Thrift协议标准，使用纯Python实现的用于构建内部SOA框架的基础组件
-- [banshee](https://github.com/eleme/banshee) <br>
+- [banshee](https://github.com/eleme/banshee)  ![](https://badgen.net/github/stars/eleme/banshee) <br>
 周期性指标的监控系统
 
 
 #### 19.2 [大前端](https://github.com/ElemeFE)
-- [element](https://github.com/ElemeFE/element) star 17.1k<br>
+- [element](https://github.com/ElemeFE/element) ![](https://badgen.net/github/stars/ElemeFE/element) <br>
 Element 是由饿了么UED设计、饿了么大前端开发的一套基于 Vue 2.0 的桌面端组件库,Element设计了一套后台支撑框架，提升后台系统的可用性和一致性套用此框架，即使没有设计师参与，也能让产品或开发设计出一套好用的后台系统
-- [mint-ui](https://github.com/ElemeFE/mint-ui) star 7.8k<br>
+- [mint-ui](https://github.com/ElemeFE/mint-ui) ![](https://badgen.net/github/stars/ElemeFE/mint-ui) <br>
 mint-ui由饿了么前端团队推出的 Mint UI 是一个基于 Vue.js 的移动端组件库,大公司写vue开发的很少,所以感觉这个还是挺不错的
-- [node-interview](https://github.com/ElemeFE/node-interview) star 5.0k<br>
+- [node-interview](https://github.com/ElemeFE/node-interview) ![](https://badgen.net/github/stars/ElemeFE/node-interview) <br>
 关于node的一些面试内容
 
 ### 20.网易
 #### 20.1 [主团队](https://github.com/netease)
-- [pomelo](https://github.com/NetEase/pomelo) star 8.2k<br>
+- [pomelo](https://github.com/NetEase/pomelo) ![](https://badgen.net/github/stars/NetEase/pomelo) <br>
 Pomelo 是基于 Node.js的高性能、分布式游戏服务器框架。它包括基础的开发框架和相关的扩展组件（库和工具包），可以帮助你省去游戏开发枯燥中的重复劳动和底层逻辑的开发。Pomelo 不但适用于游戏服务器开发，也可用于开发高实时Web应用，它的分布式架构可以使 Pomelo 比普通的实时 Web 框架扩展性更好。
-- [Emmagee](https://github.com/NetEase/Emmagee) star 1.5k<br>
+- [Emmagee](https://github.com/NetEase/Emmagee) ![](https://badgen.net/github/stars/NetEase/Emmagee) <br>
 Emmagee是网易杭州研究院QA团队开发的一个简单易上手的Android性能监测小工具，主要用于监控单个App的CPU，内存，流量，启动耗时，电量，电流等性能状态的变化，且用户可自定义配置监控的频率以及性能的实时显示，并最终生成一份性能统计文件。
 
 
 
 #### 20.1 [网易技术部(网上查了查感觉是,如果不是请您指正)](https://github.com/session-replay-tools) 
-- [tcpcopy](https://github.com/session-replay-tools/tcpcopy) star 2.2k<br>
+- [tcpcopy](https://github.com/session-replay-tools/tcpcopy) ![](https://badgen.net/github/stars/session-replay-tools/tcpcopy) <br>
 tcpcopy是一种应用请求复制（基于tcp的packets）工具，其应用领域较广，目前已经应用于国内各大互联网公司,tcpcopy主要有如下功能：
 1）分布式压力测试工具，利用在线数据，可以测试系统能够承受的压力大小（远比ab压力测试工具真实地多）,也可以提前发现一些bug
 2）普通上线测试，可以发现新系统是否稳定，提前发现上线过程中会出现的诸多问题，让开发者有信心上线
@@ -288,7 +290,7 @@ tcpcopy是一种应用请求复制（基于tcp的packets）工具，其应用领
 
 ### 21.七牛
 #### 21.1 [主团队](https://github.com/qiniu)
-- [js-sdk](https://github.com/qiniu/js-sdk) <br>
+- [js-sdk](https://github.com/qiniu/js-sdk) ![](https://badgen.net/github/stars/qiniu/js-sdk) <br>
 js-sdk基于七牛 API 开发的前端 JavaScript SDK,适用于 IE8+、Chrome、Firefox、Safari 等浏览器，基于七牛云存储官方 API 构建，其中上传功能基于 Plupload 插件封装。开发者基于 JS-SDK 可以方便的从浏览器端上传文件至七牛云存储，并对上传成功后的图片进行丰富的数据处理操作。
 
 ### 22.环信
@@ -301,31 +303,33 @@ js-sdk基于七牛 API 开发的前端 JavaScript SDK,适用于 IE8+、Chrome、
 
 ### 24.爱奇艺
 #### 24.1 [主团队](https://github.com/iqiyi)
-- [dpvs](https://github.com/iqiyi/dpvs) <br>
+- [dpvs](https://github.com/iqiyi/dpvs) ![](https://badgen.net/github/stars/iqiyi/dpvs) <br>
 DPVS是基于DPDK的高性能第4层负载均衡器。基于[阿里巴巴/ LVS](https://github.com/alibaba/LVS)修改而来，出于蓝而胜于蓝。
 DPDK全称为 "DPDK-LVS".为了达到高性能，使用了多种不同技术内核旁路（用户空间实现）无CPU，无密钥数据（无锁）RX转向和CPU绑定（避免上下文切换）批处理TX / RX Zero复制（避免数据包复制和系统调用）。轮询替换中断。高性能ICP的无锁信息。其他技术由DPDK加强
-- [Andromeda](https://github.com/iqiyi/Andromeda) <br>
+- [Andromeda](https://github.com/iqiyi/Andromeda) ![](https://badgen.net/github/stars/iqiyi/Andromeda)  <br>
 其实Android的组件化由来已久，而且已经有了一些不错的方案，特别是在页面跳转这方面，比如阿里的ARouter, 天猫的统跳协议, Airbnb的DeepLinkDispatch, 借助注解来完成页面的注册，从而很巧妙地实现了路由跳转,主要特点:也有跨进程的通信需求，并且还要支持跨进程通信中的Callback调用，以及全局的事件总线
 
 ### 25.聚美优品
 #### 25.1 [主团队](https://github.com/JumeiRdGroup)
-- [Router](https://github.com/JumeiRdGroup/Router) <br>
+- [Router](https://github.com/JumeiRdGroup/Router) ![](https://badgen.net/github/stars/JumeiRdGroup/Router) <br>
 一款简单的，支持在单品、组件化、插件化等环境下使用的路由框架。
 
 ### 26.美丽联合集团
 #### 25.1 [主团队](https://github.com/meili)
-- [minui](https://github.com/meili/minui) <br>
+- [minui](https://github.com/meili/minui) ![](https://badgen.net/github/stars/meili/minui) <br>
 基于规范的小程序 UI 组件库，自定义标签组件，简洁、易用、工具化 
 
 ### 27.字节跳动(今日头条)
 #### 25.1 [主团队](https://github.com/bytedance)
-
+- [ByteX](https://github.com/bytedance/ByteX) ![](https://badgen.net/github/stars/bytedance/ByteX) <br> android 中优秀的一些ASM插件
+- [tailor](https://github.com/bytedance/tailor) ![](https://badgen.net/github/stars/bytedance/tailor) <br> Tailor是西瓜Android团队开发的一款通用内存快照裁剪压缩工具，通过它可以在异常时直接dump出一个迷你内存快照。快照中没 有任何敏感信息，更重要的是文件非常小的同时数据也相对完整，非常适合离线分析OOM及其他类型异常的调查定位。
+- [AlphaPlayer](https://github.com/bytedance/AlphaPlayer) ![](https://badgen.net/github/stars/bytedance/AlphaPlayer) <br> AlphaPlayer是直播中台使用的一个视频动画特效SDK，可以通过制作Alpha通道分离的视频素材，再在客户端上通过OpenGL ES重新实现Alpha通道和RGB通道的混合，从而实现在端上播放带透明通道的视频。
 ### 28.去哪网
 #### 28.1 [主团队](https://github.com/qunarcorp)
 
 ### 29.携程
 #### 29.1 [主团队](https://github.com/ctripcorp)
-- [apollo](https://github.com/ctripcorp/apollo) <br>
+- [apollo](https://github.com/ctripcorp/apollo) ![](https://badgen.net/github/stars/ctripcorp/apollo)  <br>
 Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能够集中化管理应用不同环境、不同集群的配置，配置修改后能够实时推送到应用端，并且具备规范的权限、流程治理等特性，适用于微服务配置管理场景。
 
 ### 30.陌陌
