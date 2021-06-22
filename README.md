@@ -49,12 +49,12 @@
  -  [pouch](https://github.com/alibaba/pouch)   ![](https://badgen.net/github/stars/alibaba/pouch) (2017年12月5号开源)<br>Pouch 是一款轻量级的容器技术，拥有快速高效、可移植性高、资源占用少等特性，主要帮助阿里更快的做到内部业务的交付，同时提高超大规模下数据中心的物理资源利用率
  
 #### 1.2  [前端（Ant Design）](https://github.com/ant-design)
-  -  [ant-design](https://github.com/ant-design/ant-design)   Ant Design是 React 社区最流行的 UI 组件库之一，除了阿里巴巴集团，还有腾讯、百度、美团、滴滴和饿了么等公司在使用。目前Ant Design在GitHub上拥有21485颗 star，是开源中国评选的2017年度Top20最受欢迎中国开源软件。
+  -  [ant-design](https://github.com/ant-design/ant-design)   ![](https://badgen.net/github/stars/ant-design/ant-design) <br> Ant Design是 React 社区最流行的 UI 组件库之一，除了阿里巴巴集团，还有腾讯、百度、美团、滴滴和饿了么等公司在使用。目前Ant Design在GitHub上拥有21485颗 star，是开源中国评选的2017年度Top20最受欢迎中国开源软件。
 #### 1.3  [阿里巴巴Web团队](https://github.com/thx)
-  -  [RAP](https://github.com/thx/RAP)   star 6.2k<br>用官网上的总结:Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理。阿里妈妈MUX团队出品！阿里巴巴都在用！1000+公司的选择！一直被抄袭，从未被超越
+  -  [RAP](https://github.com/thx/RAP)   ![](https://badgen.net/github/stars/thx/RAP) <br> 用官网上的总结:Web接口管理工具，开源免费，接口自动化，MOCK数据自动生成，自动化测试，企业级管理。阿里妈妈MUX团队出品！阿里巴巴都在用！1000+公司的选择！一直被抄袭，从未被超越
   
 #### 1.4  [阿里无线前端团队](https://github.com/amfe)
- -  [lib-flexible](https://github.com/amfe/lib-flexible)  star 5.7k<br>Flexible是淘宝弹性布局库,主要来完成H5页面的终端适配,简单点来说是h5页面适配android和ios各个屏幕
+ -  [lib-flexible](https://github.com/amfe/lib-flexible) ![](https://badgen.net/github/stars/amfe/lib-flexible) <br>Flexible是淘宝弹性布局库,主要来完成H5页面的终端适配,简单点来说是h5页面适配android和ios各个屏幕
 #### 1.4  [蚂蚁金服](https://github.com/alipay)
 
   
@@ -64,28 +64,28 @@
 ### 2.腾讯
 
 #### 2.1 [AlloyTeam](https://github.com/AlloyTeam) 
- -  [AlloyImage](https://github.com/AlloyTeam/AlloyImage)   star 1.7k<br>AlloyImage是一个使用Javascript语言开发的项目，在Web的在线图像处理引擎的基础上，不仅仅是核心底层图像处理引擎，同样还集成了一些方便快捷的图像处理API，您可以将它简单快捷的引用到您的Web网页中，做出与PhotoShop一样的优美效果。甚至，你可以用AlloyImage来开发一个Web在线图像处理软件，如：Web版的PhotoShop——AlloyPhoto 
- -  [Mars](https://github.com/AlloyTeam/Mars)  star  5.7k<br>腾讯移动Web前端知识库,在这里可以找到前端的任何知识,不过最近7个月都没有更新了
+ -  [AlloyImage](https://github.com/AlloyTeam/AlloyImage)   ![](https://badgen.net/github/stars/AlloyTeam/AlloyImage) <br>AlloyImage是一个使用Javascript语言开发的项目，在Web的在线图像处理引擎的基础上，不仅仅是核心底层图像处理引擎，同样还集成了一些方便快捷的图像处理API，您可以将它简单快捷的引用到您的Web网页中，做出与PhotoShop一样的优美效果。甚至，你可以用AlloyImage来开发一个Web在线图像处理软件，如：Web版的PhotoShop——AlloyPhoto 
+ -  [Mars](https://github.com/AlloyTeam/Mars)  ![](https://badgen.net/github/stars/AlloyTeam/Mars) <br>腾讯移动Web前端知识库,在这里可以找到前端的任何知识,不过最近7个月都没有更新了
    
 
 #### 2.2 [微信团队](https://github.com/tencent-wechat) 好像此地址已经作废
- -  [libco](https://github.com/tencent-wechat/libco) star  2.7k<br> 这个项目地址已经移址[libco](http://github.com/Tencent/libco)<br>libco是微信后台大规模使用的c/c++协程库，2013年至今稳定运行在微信后台的数万台机器上。无需侵入业务逻辑，把多进程、多线程服务改造成协程服务，并发能力得到百倍提升;支持CGI框架，轻松构建web服务(New);支持gethostbyname、mysqlclient、ssl等常用第三库(New);可选的共享栈模式，单机轻松接入千万连接(New);
+ -  [libco](https://github.com/tencent-wechat/libco) ![](https://badgen.net/github/stars/tencent-wechat/libco) <br> 这个项目地址已经移址[libco](http://github.com/Tencent/libco)<br>libco是微信后台大规模使用的c/c++协程库，2013年至今稳定运行在微信后台的数万台机器上。无需侵入业务逻辑，把多进程、多线程服务改造成协程服务，并发能力得到百倍提升;支持CGI框架，轻松构建web服务(New);支持gethostbyname、mysqlclient、ssl等常用第三库(New);可选的共享栈模式，单机轻松接入千万连接(New);
 
 #### 2.3 [主团队](https://github.com/tencent)
 这个开源团队的项目也非常多,就列出几个重大的开源地址吧
--  [tinker](https://github.com/Tencent/tinker) star  10.1k<br>Tinker是微信官方的Android热补丁解决方案，它支持动态下发代码、So库以及资源，让应用能够在不需要重新安装的情况下实现更新。当然，你也可以使用Tinker来更新你的插件,同样热修复的框架还有[QZone](),[AndFix](https://github.com/alibaba/AndFix),[Robust](https://github.com/Meituan-Dianping/Robust)
--  [VasSonic](https://github.com/Tencent/VasSonic) star 5.6k(大约2017年7月开源的) <br>VasSonic取名于世嘉游戏形象音速小子，俗称H5首屏秒开,支持android,ios,后端.是腾讯VAS(SNG增值产品部QQ会员)团队研发的一个轻量级的高性能的Hybrid框架，专注于提升页面首屏加载速度，完美支持静态直出页面和动态直出页面，兼容离线包等方案。该框架使用终端应用层原生传输通道取代系统浏览器内核自身资源传输通道来请求页面主资源，在移动终端初始化的同时并行请求页面主资源并做到流式拦截，减少传统方案上终端初始化耗时长导致页面主资源发起请求时机慢或传统并行方案下必须等待主资源完成下载才能交给内核加载的影响。
--  [wcdb](https://github.com/Tencent/wcdb) star 4k(2017年6月2号开源的)<br>WCDB 是一个高效、完整、易用的移动数据库框架，基于 SQLCipher，支持 iOS、macOS 和 Android。
--  [angel](https://github.com/Tencent/angel) star 2.4k<br>Angel是一个基于参数服务器（Parameter Server）理念开发的高性能分布式机器学习平台，它基于腾讯内部的海量数据进行了反复的调优，并具有广泛的适用性和稳定性，模型维度越高，优势越明显。 Angel由腾讯和北京大学联合开发，兼顾了工业界的高可用性和学术界的创新性。
+-  [tinker](https://github.com/Tencent/tinker) ![](https://badgen.net/github/stars/Tencent/tinker) <br>Tinker是微信官方的Android热补丁解决方案，它支持动态下发代码、So库以及资源，让应用能够在不需要重新安装的情况下实现更新。当然，你也可以使用Tinker来更新你的插件,同样热修复的框架还有[QZone](),[AndFix](https://github.com/alibaba/AndFix),[Robust](https://github.com/Meituan-Dianping/Robust)
+-  [VasSonic](https://github.com/Tencent/VasSonic) ![](https://badgen.net/github/stars/Tencent/VasSonic)  (大约2017年7月开源的) <br>VasSonic取名于世嘉游戏形象音速小子，俗称H5首屏秒开,支持android,ios,后端.是腾讯VAS(SNG增值产品部QQ会员)团队研发的一个轻量级的高性能的Hybrid框架，专注于提升页面首屏加载速度，完美支持静态直出页面和动态直出页面，兼容离线包等方案。该框架使用终端应用层原生传输通道取代系统浏览器内核自身资源传输通道来请求页面主资源，在移动终端初始化的同时并行请求页面主资源并做到流式拦截，减少传统方案上终端初始化耗时长导致页面主资源发起请求时机慢或传统并行方案下必须等待主资源完成下载才能交给内核加载的影响。
+-  [wcdb](https://github.com/Tencent/wcdb) ![](https://badgen.net/github/stars/Tencent/wcdb) (2017年6月2号开源的)<br>WCDB 是一个高效、完整、易用的移动数据库框架，基于 SQLCipher，支持 iOS、macOS 和 Android。
+-  [angel](https://github.com/Tencent/angel) ![](https://badgen.net/github/stars/Tencent/angel) <br>Angel是一个基于参数服务器（Parameter Server）理念开发的高性能分布式机器学习平台，它基于腾讯内部的海量数据进行了反复的调优，并具有广泛的适用性和稳定性，模型维度越高，优势越明显。 Angel由腾讯和北京大学联合开发，兼顾了工业界的高可用性和学术界的创新性。
 -  [bugly](https://bugly.qq.com/v2/) <br>腾讯Bugly，为移动开发者提供专业的异常上报和运营统计，帮助开发者快速发现并解决异常，同时掌握产品运营动态，及时跟进用户反馈。支持Android 平台,iOS平台,Cocos2D,Unity3D
 
 
 
 #### 2.4 [QMUI](https://github.com/QMUI) 
 一个致力于提高项目 UI 开发效率的团队,包括 android , ios 和 web.
--  [QMUI_iOS](https://github.com/QMUI/QMUI_iOS) star 1.7k<br>QMUI iOS 是一个致力于提高项目 UI 开发效率的解决方案，其设计目的是用于辅助快速搭建一个具备基本设计还原效果的 iOS 项目，同时利用自身提供的丰富控件及兼容处理，让开发者能专注于业务需求而无需耗费精力在基础代码的设计上。不管是新项目的创建，或是已有项目的维护，均可使开发效率和项目质量得到大幅度提升。
--  [QMUI_Web](https://github.com/Tencent/QMUI_Web) star 1.2k <br>QMUI Web 是一个专注 Web UI 开发，帮助开发者快速实现特定的一整套设计的框架。框架主要由一个强大的 SASS 方法合集与内置的工作流构成。通过 QMUI Web，开发者可以很轻松地提高 Web UI 开发的效率，同时保持了项目的高可维护性与稳健。如果你需要方便地控制项目的整体样式，或者需要应对频繁的界面变动，那么 QMUI Web 框架将会是你最好的解决方案。
--  [QMUI_Android](https://github.com/QMUI/QMUI_Android) star 2.2k<br>QMUI Android 的设计目的是用于辅助快速搭建一个具备基本设计还原效果的 Android 项目，同时利用自身提供的丰富控件及兼容处理，让开发者能专注于业务需求而无需耗费精力在基础代码的设计上。不管是新项目的创建，或是已有项目的维护，均可使开发效率和项目质量得到大幅度提升。
+-  [QMUI_iOS](https://github.com/QMUI/QMUI_iOS) ![](https://badgen.net/github/stars/QMUI/QMUI_iOS) <br>QMUI iOS 是一个致力于提高项目 UI 开发效率的解决方案，其设计目的是用于辅助快速搭建一个具备基本设计还原效果的 iOS 项目，同时利用自身提供的丰富控件及兼容处理，让开发者能专注于业务需求而无需耗费精力在基础代码的设计上。不管是新项目的创建，或是已有项目的维护，均可使开发效率和项目质量得到大幅度提升。
+-  [QMUI_Web](https://github.com/Tencent/QMUI_Web) ![](https://badgen.net/github/stars/Tencent/QMUI_Web) <br>QMUI Web 是一个专注 Web UI 开发，帮助开发者快速实现特定的一整套设计的框架。框架主要由一个强大的 SASS 方法合集与内置的工作流构成。通过 QMUI Web，开发者可以很轻松地提高 Web UI 开发的效率，同时保持了项目的高可维护性与稳健。如果你需要方便地控制项目的整体样式，或者需要应对频繁的界面变动，那么 QMUI Web 框架将会是你最好的解决方案。
+-  [QMUI_Android](https://github.com/QMUI/QMUI_Android) ![](https://badgen.net/github/stars/QMUI/QMUI_Android) <br>QMUI Android 的设计目的是用于辅助快速搭建一个具备基本设计还原效果的 Android 项目，同时利用自身提供的丰富控件及兼容处理，让开发者能专注于业务需求而无需耗费精力在基础代码的设计上。不管是新项目的创建，或是已有项目的维护，均可使开发效率和项目质量得到大幅度提升。
 
 
 
@@ -94,21 +94,21 @@
  感觉这个地址就是腾讯占个位置,并没有什么重大开源项目,大家可以稍微看一下
  
 #### 2.5 [后台](https://github.com/TencentOpen)
--  [JX](https://github.com/TencentOpen/JX) <br>一个类似 Google Closure Library 的 Web 前端开发框架，JX 框架同时适用于 Web Page 和 Web App 项目的开发，特别适合构建和组织大规模、工业级的Web App，腾讯 WebQQ - http://web.qq.com、腾讯 Q+ http://www.QPlus.com 等产品都是采用JX框架开发，兼容目前所有主流浏览器。
+-  [JX](https://github.com/TencentOpen/JX) ![](https://badgen.net/github/stars/TencentOpen/JX) <br>一个类似 Google Closure Library 的 Web 前端开发框架，JX 框架同时适用于 Web Page 和 Web App 项目的开发，特别适合构建和组织大规模、工业级的Web App，腾讯 WebQQ - http://web.qq.com、腾讯 Q+ http://www.QPlus.com 等产品都是采用JX框架开发，兼容目前所有主流浏览器。
   
 
  
 #### 2.6 [腾讯移动端UI](https://github.com/frozenui)
- -  [frozenui](https://github.com/frozenui/frozenui) star 2.2k <br>FrozenUI的CSS组件库,基于腾讯手Q样式规范 
+ -  [frozenui](https://github.com/frozenui/frozenui) ![](https://badgen.net/github/stars/frozenui/frozenui) <br>FrozenUI的CSS组件库,基于腾讯手Q样式规范 
 
 
 ### 3.百度
 #### 3.1 [主团队](https://github.com/baidu)
- -  [bfs](https://github.com/baidu/bfs) star 2.1k <br>百度的核心业务和数据库系统都依赖分布式文件系统作为底层存储，文件系统的可用性和性能对上层搜索业务的稳定性与效果有着至关重要的影响。现有的分布式文件系统（如HDFS等）是为离线批处理设计的，无法在保证高吞吐的情况下做到低延迟和持续可用，所以我们从搜索的业务特点出发，设计了百度文件系统。
- -  [sofa-pbrpc](https://github.com/baidu/sofa-pbrpc) star 1.4k<br>sofa-pbrpc是基于Google Protocol Buffers 实现的RPC网络通信库，在百度公司各部门得到广泛使用，每天支撑上亿次内部调用。sofa-pbrpc基于百度大搜索高并发高负载的业务场景不断打磨，成为一套简单易用的轻量级高性能RPC框架。
+ -  [bfs](https://github.com/baidu/bfs) ![](https://badgen.net/github/stars/baidu/bfs) <br>百度的核心业务和数据库系统都依赖分布式文件系统作为底层存储，文件系统的可用性和性能对上层搜索业务的稳定性与效果有着至关重要的影响。现有的分布式文件系统（如HDFS等）是为离线批处理设计的，无法在保证高吞吐的情况下做到低延迟和持续可用，所以我们从搜索的业务特点出发，设计了百度文件系统。
+ -  [sofa-pbrpc](https://github.com/baidu/sofa-pbrpc) ![](https://badgen.net/github/stars/baidu/sofa-pbrpc) <br>sofa-pbrpc是基于Google Protocol Buffers 实现的RPC网络通信库，在百度公司各部门得到广泛使用，每天支撑上亿次内部调用。sofa-pbrpc基于百度大搜索高并发高负载的业务场景不断打磨，成为一套简单易用的轻量级高性能RPC框架。
 
- -  [brpc](https://github.com/brpc/brpc) star 5.0k (2017年9月14号开源)<br> 在百度中使用的最常见的RPC框架，拥有60万个实例和500多种服务，在百度之内称为“百度rpc”。
- -  [mobile-deep-learning](https://github.com/baidu/mobile-deep-learning)  (2017年9月25号开源)<br>一个移动端深度学习框架,可以在移动设备上简单快速部署卷积神经网络（CNN）,主要是图像识别和目标检测，比如说手机百度的拍照搜图功能。
+ -  [brpc](https://github.com/brpc/brpc) ![](https://badgen.net/github/stars/brpc/brpc) (2017年9月14号开源)<br> 在百度中使用的最常见的RPC框架，拥有60万个实例和500多种服务，在百度之内称为“百度rpc”。
+ -  [mobile-deep-learning](https://github.com/baidu/mobile-deep-learning) ![](https://badgen.net/github/stars/baidu/mobile-deep-learning) (2017年9月25号开源)<br>一个移动端深度学习框架,可以在移动设备上简单快速部署卷积神经网络（CNN）,主要是图像识别和目标检测，比如说手机百度的拍照搜图功能。
 
 #### 3.2 [主团队2](https://github.com/ecomfe)
 -  [echarts](https://github.com/ecomfe/echarts) star 20k<br>ECharts 是指 Enterprise Charts（商业产品图表库），提供商业产品常用图表库，底层基于 ZRender，创建了坐标系，图例，提示，工具箱等基础组件，并在此上构建出折线图（区域图）、柱状图（条状图）、散点图（气泡图）、K线图、饼图（环形图）、地图、力导向布局图，同时支持任意维度的堆积和多图表混合展现。纯Javascript 的图表库，提供直观，生动，可交互，可个性化定制的数据可视化图表
