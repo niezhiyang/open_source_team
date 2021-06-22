@@ -111,13 +111,13 @@
  -  [mobile-deep-learning](https://github.com/baidu/mobile-deep-learning) ![](https://badgen.net/github/stars/baidu/mobile-deep-learning) (2017年9月25号开源)<br>一个移动端深度学习框架,可以在移动设备上简单快速部署卷积神经网络（CNN）,主要是图像识别和目标检测，比如说手机百度的拍照搜图功能。
 
 #### 3.2 [主团队2](https://github.com/ecomfe)
--  [echarts](https://github.com/ecomfe/echarts) star 20k<br>ECharts 是指 Enterprise Charts（商业产品图表库），提供商业产品常用图表库，底层基于 ZRender，创建了坐标系，图例，提示，工具箱等基础组件，并在此上构建出折线图（区域图）、柱状图（条状图）、散点图（气泡图）、K线图、饼图（环形图）、地图、力导向布局图，同时支持任意维度的堆积和多图表混合展现。纯Javascript 的图表库，提供直观，生动，可交互，可个性化定制的数据可视化图表
+-  [echarts](https://github.com/ecomfe/echarts) ![](https://badgen.net/github/stars/ecomfe/echarts) <br>ECharts 是指 Enterprise Charts（商业产品图表库），提供商业产品常用图表库，底层基于 ZRender，创建了坐标系，图例，提示，工具箱等基础组件，并在此上构建出折线图（区域图）、柱状图（条状图）、散点图（气泡图）、K线图、饼图（环形图）、地图、力导向布局图，同时支持任意维度的堆积和多图表混合展现。纯Javascript 的图表库，提供直观，生动，可交互，可个性化定制的数据可视化图表
 -  [zrender](https://github.com/ecomfe/zrender) star 2.1k<br>一个轻量级HTML5 Canvas类库，MVC封装，数据驱动，提供类Dom事件模型，让canvas绘图大不同！
 
 #### 3.3 [web前端1](https://github.com/fex-team)
--  [ueditor](https://github.com/fex-team/ueditor) star 2.9K<br> 富文本编辑器\
--  [fis3](https://github.com/fex-team/fis3) star 2.1K<br> FIS3 面向前端的工程构建系统。解决前端工程中性能优化、资源加载（异步、同步、按需、预加载、依赖管理、合并、内嵌）、模块化开发、自动化工具、开发规范、代码部署等问题。
--  [webuploader](https://github.com/fex-team/webuploader) star 4.8K<br>WebUploader是一个简单的以HTML5为主，FLASH为辅的现代文件上传组件。在现代的浏览器里面能充分发挥HTML5的优势，同时又不摒弃主流IE浏览器，延用原来的FLASH运行时，兼容IE6+，Andorid 4+，IOS 6+。两套运行时，同样的调用方式，可供用户任意选用。支持大文件分片并发上传，极大的提高了文件上传效率。
+-  [ueditor](https://github.com/fex-team/ueditor) ![](https://badgen.net/github/stars/fex-team/ueditor) <br> 富文本编辑器\
+-  [fis3](https://github.com/fex-team/fis3) ![](https://badgen.net/github/stars/fex-team/fis3) <br> FIS3 面向前端的工程构建系统。解决前端工程中性能优化、资源加载（异步、同步、按需、预加载、依赖管理、合并、内嵌）、模块化开发、自动化工具、开发规范、代码部署等问题。
+-  [webuploader](https://github.com/fex-team/webuploader) ![](https://badgen.net/github/stars/fex-team/webuploader) <br>WebUploader是一个简单的以HTML5为主，FLASH为辅的现代文件上传组件。在现代的浏览器里面能充分发挥HTML5的优势，同时又不摒弃主流IE浏览器，延用原来的FLASH运行时，兼容IE6+，Andorid 4+，IOS 6+。两套运行时，同样的调用方式，可供用户任意选用。支持大文件分片并发上传，极大的提高了文件上传效率。
 
 
 #### 3.4 [web前端2](https://github.com/baidufe)
