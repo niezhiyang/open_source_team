@@ -160,6 +160,10 @@
 
 #### 7.1 [主团队](https://github.com/58code)
  感觉58同城的项目都比较老了,现在有很多其他项目比他的更完美,所以就不总结了
+#### 7.2 [主团队](https://github.com/wuba)
+  - [Fair](https://github.com/wuba/Fair) ![](https://badgen.net/github/stars/wuba/Fair) <br>Flutter热更新。Flutter设计的动态化框架，通过Fair Compiler工具对原生Dart源文件的自动转化，使项目获得动态更新Widget的能力。
+ - [WBBlades](https://github.com/wuba/WBBlades) ![](https://badgen.net/github/stars/wuba/WBBlades) <br>WBBlades是基于Mach-O文件解析的工具集，包括App一键体检（支持OC和Swift的无用类检测）、包大小分析（支持单个静态库/动态库的包大小分析）、点对点崩溃解析（基于系统日志，支持有符号状态和无符号状态）、基于Mach-O的Class自动提取并Hook能力。主要利用了__Text汇编代码分析、架构提取、符号表剥离、dYSM文件提取、崩溃文件(ips)解析等技术手段实现，支持big method /small method 解析 以及 iOS 15以上关于 dyld_chained_fixups的处理。为了便于用户更快了解WBBlades项目，我们提供了基于GPT的智能Readme功能。
+ 
 ### 8.美团 
 #### 8.1 [美团点评(新)](https://github.com/Meituan-Dianping)
  - [Robust](https://github.com/Meituan-Dianping/Robust) ![](https://badgen.net/github/stars/Meituan-Dianping/Robust) <br>新一代热更新系统Robust，对Android版本无差别兼容。无需发版就可以做到随时修改线上bug，快速对重大线上问题0.4.7作出反应，补丁修补成功率高达99.9%。
