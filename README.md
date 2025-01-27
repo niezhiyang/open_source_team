@@ -35,7 +35,7 @@
 - [携程](#29携程)
 - [陌陌](#30陌陌)
 - [京东](#31京东)
-- [小米](#32小米)
+
 
 
 ### 1.阿里巴巴
@@ -155,7 +155,6 @@
  - [minos](https://github.com/XiaoMi/minos) ![](https://badgen.net/github/stars/XiaoMi/minos) <br>Minos 是小米公司开发的一个分布式的发布和监控系统。最初是小米开发的用来在 Hadoop 和 ZooKeeper 集群上发布和管理的工具。Minos可轻松扩展来支持其他的系统，目前已经支持包括 HDFS、YARN 和 Impala 。
  - [open-falcon](https://github.com/XiaoMi/open-falcon) ![](https://badgen.net/github/stars/XiaoMi/open-falcon) <br>用官网的话概述:监控系统业界有很多杰出的开源监控系统。我们在早期，一直在用zabbix，不过随着业务的快速发展，以及互联网公司特有的一些需求，现有的开源的监控系统在性能、扩展性、和用户的使用效率方面，已经无法支撑了。
 因此，我们在过去的一年里，从互联网公司的一些需求出发，从各位SRE、SA、DEVS的使用经验和反馈出发，结合业界的一些大的互联网公司做监控，用监控的一些思考出发，设计开发了小米的监控系统
- 
 
 ### 7.58同城
 
@@ -348,8 +347,7 @@ Apollo（阿波罗）是携程框架部门研发的分布式配置中心，能�
 #### 31.1 京东数科
 - [shardingsphere](https://github.com/apache/incubator-shardingsphere) <br>
 ShardingSphere是一套开源的分布式数据库中间件解决方案组成的生态圈，定位为关系型数据库中间件，旨在充分合理地在分布式的场景下利用关系型数据库的计算和存储能力
-### 32.小米
-#### 32.1 [主团队](https://github.com/XiaoMi)
+
 
 
 
